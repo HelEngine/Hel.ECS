@@ -20,7 +20,7 @@ jobs:
     - name: Build
       run: dotnet build --configuration Release --no-restore
     - name: Deploy
-      run: dotnet nuget push "**/bin/Release/*.nupkg" -k ${{ secrets.NUGET_DEPLOY_API_KEY }} -s https://api.nuget.org/v3/index.json
+      run: dotnet nuget push "**/bin/Release/*.nupkg" -k ${{ secrets.NUGET_DEPLOY_API_KEY }} -s https://api.nuget.org/v3/index.json --skip-duplicate
 
 
 
