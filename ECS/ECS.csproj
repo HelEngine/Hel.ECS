@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <OutputType>Library</OutputType>
+        <LangVersion>8</LangVersion>
+        <VersionSuffix>-$(Configuration)</VersionSuffix>
+        <RootNamespace>Hel.ECS</RootNamespace>
+    </PropertyGroup>
+    <PropertyGroup>
+        <PackageId>Hel.ECS</PackageId>
+        <PackageTags>hel;hel.ecs; core;.net</PackageTags>
+        <Version>0.8.0</Version>
+        <Authors>Hel_Engine</Authors>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Hel.Toolkit" Version="0.5.2" />
+    </ItemGroup>
+</Project>
