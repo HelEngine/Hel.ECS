@@ -1,0 +1,23 @@
+
+name: DoxFX -> Documentation generator
+
+on:
+  push:
+    branches: [ release ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      
+      - uses: nikeee/docfx-action@v1.0.0
+        with:
+          args:  docfx/docfx.json --build
+
+      - name: GitHub Pages action
+        uses: peaceiris/actions-gh-pages@v3.6.4
+        with:
+          personal_token: ${{ secrets.GH_PAT }}
+          publish_dir: ./docfx/_site
+
