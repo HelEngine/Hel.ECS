@@ -1,0 +1,2114 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Hel.ECS.Components.Container
+  name: Hel.ECS.Components.Container
+  href: hel-api/Hel.ECS.Components.Container.html
+  commentId: N:Hel.ECS.Components.Container
+  fullName: Hel.ECS.Components.Container
+  nameWithType: Hel.ECS.Components.Container
+- uid: Hel.ECS.Components.Container.ComponentContainer
+  name: ComponentContainer
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html
+  commentId: T:Hel.ECS.Components.Container.ComponentContainer
+  fullName: Hel.ECS.Components.Container.ComponentContainer
+  nameWithType: ComponentContainer
+- uid: Hel.ECS.Components.Container.ComponentContainer.#ctor(Type)
+  name: ComponentContainer(Type)
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer__ctor_Type_
+  commentId: M:Hel.ECS.Components.Container.ComponentContainer.#ctor(Type)
+  fullName: Hel.ECS.Components.Container.ComponentContainer.ComponentContainer(Type)
+  nameWithType: ComponentContainer.ComponentContainer(Type)
+- uid: Hel.ECS.Components.Container.ComponentContainer.#ctor*
+  name: ComponentContainer
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer__ctor_
+  commentId: Overload:Hel.ECS.Components.Container.ComponentContainer.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Container.ComponentContainer.ComponentContainer
+  nameWithType: ComponentContainer.ComponentContainer
+- uid: Hel.ECS.Components.Container.ComponentContainer.ApplyUpdates
+  name: ApplyUpdates()
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_ApplyUpdates
+  commentId: M:Hel.ECS.Components.Container.ComponentContainer.ApplyUpdates
+  fullName: Hel.ECS.Components.Container.ComponentContainer.ApplyUpdates()
+  nameWithType: ComponentContainer.ApplyUpdates()
+- uid: Hel.ECS.Components.Container.ComponentContainer.ApplyUpdates*
+  name: ApplyUpdates
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_ApplyUpdates_
+  commentId: Overload:Hel.ECS.Components.Container.ComponentContainer.ApplyUpdates
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Container.ComponentContainer.ApplyUpdates
+  nameWithType: ComponentContainer.ApplyUpdates
+- uid: Hel.ECS.Components.Container.ComponentContainer.EntitiesModified
+  name: ComponentContainer.EntitiesModified
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.EntitiesModified.html
+  commentId: T:Hel.ECS.Components.Container.ComponentContainer.EntitiesModified
+  fullName: Hel.ECS.Components.Container.ComponentContainer.EntitiesModified
+  nameWithType: ComponentContainer.EntitiesModified
+- uid: Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection
+  name: ComponentContainer.EntityChangeDirection
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.html
+  commentId: T:Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection
+  fullName: Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection
+  nameWithType: ComponentContainer.EntityChangeDirection
+- uid: Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.Added
+  name: Added
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.html#Hel_ECS_Components_Container_ComponentContainer_EntityChangeDirection_Added
+  commentId: F:Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.Added
+  fullName: Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.Added
+  nameWithType: ComponentContainer.EntityChangeDirection.Added
+- uid: Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.Removed
+  name: Removed
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.html#Hel_ECS_Components_Container_ComponentContainer_EntityChangeDirection_Removed
+  commentId: F:Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.Removed
+  fullName: Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.Removed
+  nameWithType: ComponentContainer.EntityChangeDirection.Removed
+- uid: Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.Updated
+  name: Updated
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.html#Hel_ECS_Components_Container_ComponentContainer_EntityChangeDirection_Updated
+  commentId: F:Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.Updated
+  fullName: Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection.Updated
+  nameWithType: ComponentContainer.EntityChangeDirection.Updated
+- uid: Hel.ECS.Components.Container.ComponentContainer.Get(System.Int32)
+  name: Get(Int32)
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_Get_System_Int32_
+  commentId: M:Hel.ECS.Components.Container.ComponentContainer.Get(System.Int32)
+  fullName: Hel.ECS.Components.Container.ComponentContainer.Get(System.Int32)
+  nameWithType: ComponentContainer.Get(Int32)
+- uid: Hel.ECS.Components.Container.ComponentContainer.Get*
+  name: Get
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_Get_
+  commentId: Overload:Hel.ECS.Components.Container.ComponentContainer.Get
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Container.ComponentContainer.Get
+  nameWithType: ComponentContainer.Get
+- uid: Hel.ECS.Components.Container.ComponentContainer.Item(System.Int32)
+  name: Item[Int32]
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_Item_System_Int32_
+  commentId: P:Hel.ECS.Components.Container.ComponentContainer.Item(System.Int32)
+  name.vb: Item(Int32)
+  fullName: Hel.ECS.Components.Container.ComponentContainer.Item[System.Int32]
+  fullName.vb: Hel.ECS.Components.Container.ComponentContainer.Item(System.Int32)
+  nameWithType: ComponentContainer.Item[Int32]
+  nameWithType.vb: ComponentContainer.Item(Int32)
+- uid: Hel.ECS.Components.Container.ComponentContainer.Item*
+  name: Item
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_Item_
+  commentId: Overload:Hel.ECS.Components.Container.ComponentContainer.Item
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Container.ComponentContainer.Item
+  nameWithType: ComponentContainer.Item
+- uid: Hel.ECS.Components.Container.ComponentContainer.OnEntitiesModified
+  name: OnEntitiesModified
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_OnEntitiesModified
+  commentId: E:Hel.ECS.Components.Container.ComponentContainer.OnEntitiesModified
+  fullName: Hel.ECS.Components.Container.ComponentContainer.OnEntitiesModified
+  nameWithType: ComponentContainer.OnEntitiesModified
+- uid: Hel.ECS.Components.Container.ComponentContainer.Remove(System.Int32)
+  name: Remove(Int32)
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_Remove_System_Int32_
+  commentId: M:Hel.ECS.Components.Container.ComponentContainer.Remove(System.Int32)
+  fullName: Hel.ECS.Components.Container.ComponentContainer.Remove(System.Int32)
+  nameWithType: ComponentContainer.Remove(Int32)
+- uid: Hel.ECS.Components.Container.ComponentContainer.Remove*
+  name: Remove
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_Remove_
+  commentId: Overload:Hel.ECS.Components.Container.ComponentContainer.Remove
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Container.ComponentContainer.Remove
+  nameWithType: ComponentContainer.Remove
+- uid: Hel.ECS.Components.Container.ComponentContainer.Type
+  name: Type
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_Type
+  commentId: P:Hel.ECS.Components.Container.ComponentContainer.Type
+  fullName: Hel.ECS.Components.Container.ComponentContainer.Type
+  nameWithType: ComponentContainer.Type
+- uid: Hel.ECS.Components.Container.ComponentContainer.Type*
+  name: Type
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_Type_
+  commentId: Overload:Hel.ECS.Components.Container.ComponentContainer.Type
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Container.ComponentContainer.Type
+  nameWithType: ComponentContainer.Type
+- uid: Hel.ECS.Components.Container.ComponentContainer.UpdateComponent(System.Int32,Hel.ECS.Components.Model.IComponent)
+  name: UpdateComponent(Int32, IComponent)
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_UpdateComponent_System_Int32_Hel_ECS_Components_Model_IComponent_
+  commentId: M:Hel.ECS.Components.Container.ComponentContainer.UpdateComponent(System.Int32,Hel.ECS.Components.Model.IComponent)
+  fullName: Hel.ECS.Components.Container.ComponentContainer.UpdateComponent(System.Int32, Hel.ECS.Components.Model.IComponent)
+  nameWithType: ComponentContainer.UpdateComponent(Int32, IComponent)
+- uid: Hel.ECS.Components.Container.ComponentContainer.UpdateComponent*
+  name: UpdateComponent
+  href: hel-api/Hel.ECS.Components.Container.ComponentContainer.html#Hel_ECS_Components_Container_ComponentContainer_UpdateComponent_
+  commentId: Overload:Hel.ECS.Components.Container.ComponentContainer.UpdateComponent
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Container.ComponentContainer.UpdateComponent
+  nameWithType: ComponentContainer.UpdateComponent
+- uid: Hel.ECS.Components.Examples
+  name: Hel.ECS.Components.Examples
+  href: hel-api/Hel.ECS.Components.Examples.html
+  commentId: N:Hel.ECS.Components.Examples
+  fullName: Hel.ECS.Components.Examples
+  nameWithType: Hel.ECS.Components.Examples
+- uid: Hel.ECS.Components.Examples.EntityActiveComponentExample
+  name: EntityActiveComponentExample
+  href: hel-api/Hel.ECS.Components.Examples.EntityActiveComponentExample.html
+  commentId: T:Hel.ECS.Components.Examples.EntityActiveComponentExample
+  fullName: Hel.ECS.Components.Examples.EntityActiveComponentExample
+  nameWithType: EntityActiveComponentExample
+- uid: Hel.ECS.Components.Examples.EntityActiveComponentExample.Active
+  name: Active
+  href: hel-api/Hel.ECS.Components.Examples.EntityActiveComponentExample.html#Hel_ECS_Components_Examples_EntityActiveComponentExample_Active
+  commentId: P:Hel.ECS.Components.Examples.EntityActiveComponentExample.Active
+  fullName: Hel.ECS.Components.Examples.EntityActiveComponentExample.Active
+  nameWithType: EntityActiveComponentExample.Active
+- uid: Hel.ECS.Components.Examples.EntityActiveComponentExample.Active*
+  name: Active
+  href: hel-api/Hel.ECS.Components.Examples.EntityActiveComponentExample.html#Hel_ECS_Components_Examples_EntityActiveComponentExample_Active_
+  commentId: Overload:Hel.ECS.Components.Examples.EntityActiveComponentExample.Active
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.EntityActiveComponentExample.Active
+  nameWithType: EntityActiveComponentExample.Active
+- uid: Hel.ECS.Components.Examples.EntityActiveComponentExample.Equals(Hel.ECS.Components.Examples.EntityActiveComponentExample)
+  name: Equals(EntityActiveComponentExample)
+  href: hel-api/Hel.ECS.Components.Examples.EntityActiveComponentExample.html#Hel_ECS_Components_Examples_EntityActiveComponentExample_Equals_Hel_ECS_Components_Examples_EntityActiveComponentExample_
+  commentId: M:Hel.ECS.Components.Examples.EntityActiveComponentExample.Equals(Hel.ECS.Components.Examples.EntityActiveComponentExample)
+  fullName: Hel.ECS.Components.Examples.EntityActiveComponentExample.Equals(Hel.ECS.Components.Examples.EntityActiveComponentExample)
+  nameWithType: EntityActiveComponentExample.Equals(EntityActiveComponentExample)
+- uid: Hel.ECS.Components.Examples.EntityActiveComponentExample.Equals*
+  name: Equals
+  href: hel-api/Hel.ECS.Components.Examples.EntityActiveComponentExample.html#Hel_ECS_Components_Examples_EntityActiveComponentExample_Equals_
+  commentId: Overload:Hel.ECS.Components.Examples.EntityActiveComponentExample.Equals
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.EntityActiveComponentExample.Equals
+  nameWithType: EntityActiveComponentExample.Equals
+- uid: Hel.ECS.Components.Examples.IRenderComponentExample
+  name: IRenderComponentExample
+  href: hel-api/Hel.ECS.Components.Examples.IRenderComponentExample.html
+  commentId: T:Hel.ECS.Components.Examples.IRenderComponentExample
+  fullName: Hel.ECS.Components.Examples.IRenderComponentExample
+  nameWithType: IRenderComponentExample
+- uid: Hel.ECS.Components.Examples.IRenderComponentExample.ZIndex
+  name: ZIndex
+  href: hel-api/Hel.ECS.Components.Examples.IRenderComponentExample.html#Hel_ECS_Components_Examples_IRenderComponentExample_ZIndex
+  commentId: P:Hel.ECS.Components.Examples.IRenderComponentExample.ZIndex
+  fullName: Hel.ECS.Components.Examples.IRenderComponentExample.ZIndex
+  nameWithType: IRenderComponentExample.ZIndex
+- uid: Hel.ECS.Components.Examples.IRenderComponentExample.ZIndex*
+  name: ZIndex
+  href: hel-api/Hel.ECS.Components.Examples.IRenderComponentExample.html#Hel_ECS_Components_Examples_IRenderComponentExample_ZIndex_
+  commentId: Overload:Hel.ECS.Components.Examples.IRenderComponentExample.ZIndex
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.IRenderComponentExample.ZIndex
+  nameWithType: IRenderComponentExample.ZIndex
+- uid: Hel.ECS.Components.Examples.MovementExample
+  name: MovementExample
+  href: hel-api/Hel.ECS.Components.Examples.MovementExample.html
+  commentId: T:Hel.ECS.Components.Examples.MovementExample
+  fullName: Hel.ECS.Components.Examples.MovementExample
+  nameWithType: MovementExample
+- uid: Hel.ECS.Components.Examples.MovementExample.Active
+  name: Active
+  href: hel-api/Hel.ECS.Components.Examples.MovementExample.html#Hel_ECS_Components_Examples_MovementExample_Active
+  commentId: P:Hel.ECS.Components.Examples.MovementExample.Active
+  fullName: Hel.ECS.Components.Examples.MovementExample.Active
+  nameWithType: MovementExample.Active
+- uid: Hel.ECS.Components.Examples.MovementExample.Active*
+  name: Active
+  href: hel-api/Hel.ECS.Components.Examples.MovementExample.html#Hel_ECS_Components_Examples_MovementExample_Active_
+  commentId: Overload:Hel.ECS.Components.Examples.MovementExample.Active
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.MovementExample.Active
+  nameWithType: MovementExample.Active
+- uid: Hel.ECS.Components.Examples.MovementExample.Equals(Hel.ECS.Components.Examples.MovementExample)
+  name: Equals(MovementExample)
+  href: hel-api/Hel.ECS.Components.Examples.MovementExample.html#Hel_ECS_Components_Examples_MovementExample_Equals_Hel_ECS_Components_Examples_MovementExample_
+  commentId: M:Hel.ECS.Components.Examples.MovementExample.Equals(Hel.ECS.Components.Examples.MovementExample)
+  fullName: Hel.ECS.Components.Examples.MovementExample.Equals(Hel.ECS.Components.Examples.MovementExample)
+  nameWithType: MovementExample.Equals(MovementExample)
+- uid: Hel.ECS.Components.Examples.MovementExample.Equals*
+  name: Equals
+  href: hel-api/Hel.ECS.Components.Examples.MovementExample.html#Hel_ECS_Components_Examples_MovementExample_Equals_
+  commentId: Overload:Hel.ECS.Components.Examples.MovementExample.Equals
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.MovementExample.Equals
+  nameWithType: MovementExample.Equals
+- uid: Hel.ECS.Components.Examples.MovementExample.Speed
+  name: Speed
+  href: hel-api/Hel.ECS.Components.Examples.MovementExample.html#Hel_ECS_Components_Examples_MovementExample_Speed
+  commentId: P:Hel.ECS.Components.Examples.MovementExample.Speed
+  fullName: Hel.ECS.Components.Examples.MovementExample.Speed
+  nameWithType: MovementExample.Speed
+- uid: Hel.ECS.Components.Examples.MovementExample.Speed*
+  name: Speed
+  href: hel-api/Hel.ECS.Components.Examples.MovementExample.html#Hel_ECS_Components_Examples_MovementExample_Speed_
+  commentId: Overload:Hel.ECS.Components.Examples.MovementExample.Speed
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.MovementExample.Speed
+  nameWithType: MovementExample.Speed
+- uid: Hel.ECS.Components.Examples.RenderExample
+  name: RenderExample
+  href: hel-api/Hel.ECS.Components.Examples.RenderExample.html
+  commentId: T:Hel.ECS.Components.Examples.RenderExample
+  fullName: Hel.ECS.Components.Examples.RenderExample
+  nameWithType: RenderExample
+- uid: Hel.ECS.Components.Examples.RenderExample.Active
+  name: Active
+  href: hel-api/Hel.ECS.Components.Examples.RenderExample.html#Hel_ECS_Components_Examples_RenderExample_Active
+  commentId: P:Hel.ECS.Components.Examples.RenderExample.Active
+  fullName: Hel.ECS.Components.Examples.RenderExample.Active
+  nameWithType: RenderExample.Active
+- uid: Hel.ECS.Components.Examples.RenderExample.Active*
+  name: Active
+  href: hel-api/Hel.ECS.Components.Examples.RenderExample.html#Hel_ECS_Components_Examples_RenderExample_Active_
+  commentId: Overload:Hel.ECS.Components.Examples.RenderExample.Active
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.RenderExample.Active
+  nameWithType: RenderExample.Active
+- uid: Hel.ECS.Components.Examples.RenderExample.Equals(Hel.ECS.Components.Examples.RenderExample)
+  name: Equals(RenderExample)
+  href: hel-api/Hel.ECS.Components.Examples.RenderExample.html#Hel_ECS_Components_Examples_RenderExample_Equals_Hel_ECS_Components_Examples_RenderExample_
+  commentId: M:Hel.ECS.Components.Examples.RenderExample.Equals(Hel.ECS.Components.Examples.RenderExample)
+  fullName: Hel.ECS.Components.Examples.RenderExample.Equals(Hel.ECS.Components.Examples.RenderExample)
+  nameWithType: RenderExample.Equals(RenderExample)
+- uid: Hel.ECS.Components.Examples.RenderExample.Equals*
+  name: Equals
+  href: hel-api/Hel.ECS.Components.Examples.RenderExample.html#Hel_ECS_Components_Examples_RenderExample_Equals_
+  commentId: Overload:Hel.ECS.Components.Examples.RenderExample.Equals
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.RenderExample.Equals
+  nameWithType: RenderExample.Equals
+- uid: Hel.ECS.Components.Examples.RenderExample.ZIndex
+  name: ZIndex
+  href: hel-api/Hel.ECS.Components.Examples.RenderExample.html#Hel_ECS_Components_Examples_RenderExample_ZIndex
+  commentId: P:Hel.ECS.Components.Examples.RenderExample.ZIndex
+  fullName: Hel.ECS.Components.Examples.RenderExample.ZIndex
+  nameWithType: RenderExample.ZIndex
+- uid: Hel.ECS.Components.Examples.RenderExample.ZIndex*
+  name: ZIndex
+  href: hel-api/Hel.ECS.Components.Examples.RenderExample.html#Hel_ECS_Components_Examples_RenderExample_ZIndex_
+  commentId: Overload:Hel.ECS.Components.Examples.RenderExample.ZIndex
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.RenderExample.ZIndex
+  nameWithType: RenderExample.ZIndex
+- uid: Hel.ECS.Components.Examples.TransformExample
+  name: TransformExample
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html
+  commentId: T:Hel.ECS.Components.Examples.TransformExample
+  fullName: Hel.ECS.Components.Examples.TransformExample
+  nameWithType: TransformExample
+- uid: Hel.ECS.Components.Examples.TransformExample.#ctor(System.UInt32,System.UInt32)
+  name: TransformExample(UInt32, UInt32)
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample__ctor_System_UInt32_System_UInt32_
+  commentId: M:Hel.ECS.Components.Examples.TransformExample.#ctor(System.UInt32,System.UInt32)
+  fullName: Hel.ECS.Components.Examples.TransformExample.TransformExample(System.UInt32, System.UInt32)
+  nameWithType: TransformExample.TransformExample(UInt32, UInt32)
+- uid: Hel.ECS.Components.Examples.TransformExample.#ctor(System.UInt32,System.UInt32,System.Boolean)
+  name: TransformExample(UInt32, UInt32, Boolean)
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample__ctor_System_UInt32_System_UInt32_System_Boolean_
+  commentId: M:Hel.ECS.Components.Examples.TransformExample.#ctor(System.UInt32,System.UInt32,System.Boolean)
+  fullName: Hel.ECS.Components.Examples.TransformExample.TransformExample(System.UInt32, System.UInt32, System.Boolean)
+  nameWithType: TransformExample.TransformExample(UInt32, UInt32, Boolean)
+- uid: Hel.ECS.Components.Examples.TransformExample.#ctor*
+  name: TransformExample
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample__ctor_
+  commentId: Overload:Hel.ECS.Components.Examples.TransformExample.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.TransformExample.TransformExample
+  nameWithType: TransformExample.TransformExample
+- uid: Hel.ECS.Components.Examples.TransformExample.Active
+  name: Active
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample_Active
+  commentId: P:Hel.ECS.Components.Examples.TransformExample.Active
+  fullName: Hel.ECS.Components.Examples.TransformExample.Active
+  nameWithType: TransformExample.Active
+- uid: Hel.ECS.Components.Examples.TransformExample.Active*
+  name: Active
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample_Active_
+  commentId: Overload:Hel.ECS.Components.Examples.TransformExample.Active
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.TransformExample.Active
+  nameWithType: TransformExample.Active
+- uid: Hel.ECS.Components.Examples.TransformExample.Equals(Hel.ECS.Components.Examples.TransformExample)
+  name: Equals(TransformExample)
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample_Equals_Hel_ECS_Components_Examples_TransformExample_
+  commentId: M:Hel.ECS.Components.Examples.TransformExample.Equals(Hel.ECS.Components.Examples.TransformExample)
+  fullName: Hel.ECS.Components.Examples.TransformExample.Equals(Hel.ECS.Components.Examples.TransformExample)
+  nameWithType: TransformExample.Equals(TransformExample)
+- uid: Hel.ECS.Components.Examples.TransformExample.Equals*
+  name: Equals
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample_Equals_
+  commentId: Overload:Hel.ECS.Components.Examples.TransformExample.Equals
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.TransformExample.Equals
+  nameWithType: TransformExample.Equals
+- uid: Hel.ECS.Components.Examples.TransformExample.X
+  name: X
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample_X
+  commentId: P:Hel.ECS.Components.Examples.TransformExample.X
+  fullName: Hel.ECS.Components.Examples.TransformExample.X
+  nameWithType: TransformExample.X
+- uid: Hel.ECS.Components.Examples.TransformExample.X*
+  name: X
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample_X_
+  commentId: Overload:Hel.ECS.Components.Examples.TransformExample.X
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.TransformExample.X
+  nameWithType: TransformExample.X
+- uid: Hel.ECS.Components.Examples.TransformExample.Y
+  name: Y
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample_Y
+  commentId: P:Hel.ECS.Components.Examples.TransformExample.Y
+  fullName: Hel.ECS.Components.Examples.TransformExample.Y
+  nameWithType: TransformExample.Y
+- uid: Hel.ECS.Components.Examples.TransformExample.Y*
+  name: Y
+  href: hel-api/Hel.ECS.Components.Examples.TransformExample.html#Hel_ECS_Components_Examples_TransformExample_Y_
+  commentId: Overload:Hel.ECS.Components.Examples.TransformExample.Y
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Examples.TransformExample.Y
+  nameWithType: TransformExample.Y
+- uid: Hel.ECS.Components.Model
+  name: Hel.ECS.Components.Model
+  href: hel-api/Hel.ECS.Components.Model.html
+  commentId: N:Hel.ECS.Components.Model
+  fullName: Hel.ECS.Components.Model
+  nameWithType: Hel.ECS.Components.Model
+- uid: Hel.ECS.Components.Model.IComponent
+  name: IComponent
+  href: hel-api/Hel.ECS.Components.Model.IComponent.html
+  commentId: T:Hel.ECS.Components.Model.IComponent
+  fullName: Hel.ECS.Components.Model.IComponent
+  nameWithType: IComponent
+- uid: Hel.ECS.Components.Model.IComponent.Active
+  name: Active
+  href: hel-api/Hel.ECS.Components.Model.IComponent.html#Hel_ECS_Components_Model_IComponent_Active
+  commentId: P:Hel.ECS.Components.Model.IComponent.Active
+  fullName: Hel.ECS.Components.Model.IComponent.Active
+  nameWithType: IComponent.Active
+- uid: Hel.ECS.Components.Model.IComponent.Active*
+  name: Active
+  href: hel-api/Hel.ECS.Components.Model.IComponent.html#Hel_ECS_Components_Model_IComponent_Active_
+  commentId: Overload:Hel.ECS.Components.Model.IComponent.Active
+  isSpec: "True"
+  fullName: Hel.ECS.Components.Model.IComponent.Active
+  nameWithType: IComponent.Active
+- uid: Hel.ECS.Entities.Container
+  name: Hel.ECS.Entities.Container
+  href: hel-api/Hel.ECS.Entities.Container.html
+  commentId: N:Hel.ECS.Entities.Container
+  fullName: Hel.ECS.Entities.Container
+  nameWithType: Hel.ECS.Entities.Container
+- uid: Hel.ECS.Entities.Container.EntityLookup
+  name: EntityLookup
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html
+  commentId: T:Hel.ECS.Entities.Container.EntityLookup
+  fullName: Hel.ECS.Entities.Container.EntityLookup
+  nameWithType: EntityLookup
+- uid: Hel.ECS.Entities.Container.EntityLookup.#ctor
+  name: EntityLookup()
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup__ctor
+  commentId: M:Hel.ECS.Entities.Container.EntityLookup.#ctor
+  fullName: Hel.ECS.Entities.Container.EntityLookup.EntityLookup()
+  nameWithType: EntityLookup.EntityLookup()
+- uid: Hel.ECS.Entities.Container.EntityLookup.#ctor*
+  name: EntityLookup
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup__ctor_
+  commentId: Overload:Hel.ECS.Entities.Container.EntityLookup.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Container.EntityLookup.EntityLookup
+  nameWithType: EntityLookup.EntityLookup
+- uid: Hel.ECS.Entities.Container.EntityLookup.Add
+  name: Add()
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_Add
+  commentId: M:Hel.ECS.Entities.Container.EntityLookup.Add
+  fullName: Hel.ECS.Entities.Container.EntityLookup.Add()
+  nameWithType: EntityLookup.Add()
+- uid: Hel.ECS.Entities.Container.EntityLookup.Add(System.String)
+  name: Add(String)
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_Add_System_String_
+  commentId: M:Hel.ECS.Entities.Container.EntityLookup.Add(System.String)
+  fullName: Hel.ECS.Entities.Container.EntityLookup.Add(System.String)
+  nameWithType: EntityLookup.Add(String)
+- uid: Hel.ECS.Entities.Container.EntityLookup.Add*
+  name: Add
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_Add_
+  commentId: Overload:Hel.ECS.Entities.Container.EntityLookup.Add
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Container.EntityLookup.Add
+  nameWithType: EntityLookup.Add
+- uid: Hel.ECS.Entities.Container.EntityLookup.Clear
+  name: Clear()
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_Clear
+  commentId: M:Hel.ECS.Entities.Container.EntityLookup.Clear
+  fullName: Hel.ECS.Entities.Container.EntityLookup.Clear()
+  nameWithType: EntityLookup.Clear()
+- uid: Hel.ECS.Entities.Container.EntityLookup.Clear*
+  name: Clear
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_Clear_
+  commentId: Overload:Hel.ECS.Entities.Container.EntityLookup.Clear
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Container.EntityLookup.Clear
+  nameWithType: EntityLookup.Clear
+- uid: Hel.ECS.Entities.Container.EntityLookup.EntityCount
+  name: EntityCount
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_EntityCount
+  commentId: P:Hel.ECS.Entities.Container.EntityLookup.EntityCount
+  fullName: Hel.ECS.Entities.Container.EntityLookup.EntityCount
+  nameWithType: EntityLookup.EntityCount
+- uid: Hel.ECS.Entities.Container.EntityLookup.EntityCount*
+  name: EntityCount
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_EntityCount_
+  commentId: Overload:Hel.ECS.Entities.Container.EntityLookup.EntityCount
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Container.EntityLookup.EntityCount
+  nameWithType: EntityLookup.EntityCount
+- uid: Hel.ECS.Entities.Container.EntityLookup.GetByName(System.String)
+  name: GetByName(String)
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_GetByName_System_String_
+  commentId: M:Hel.ECS.Entities.Container.EntityLookup.GetByName(System.String)
+  fullName: Hel.ECS.Entities.Container.EntityLookup.GetByName(System.String)
+  nameWithType: EntityLookup.GetByName(String)
+- uid: Hel.ECS.Entities.Container.EntityLookup.GetByName*
+  name: GetByName
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_GetByName_
+  commentId: Overload:Hel.ECS.Entities.Container.EntityLookup.GetByName
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Container.EntityLookup.GetByName
+  nameWithType: EntityLookup.GetByName
+- uid: Hel.ECS.Entities.Container.EntityLookup.GetEntities
+  name: GetEntities()
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_GetEntities
+  commentId: M:Hel.ECS.Entities.Container.EntityLookup.GetEntities
+  fullName: Hel.ECS.Entities.Container.EntityLookup.GetEntities()
+  nameWithType: EntityLookup.GetEntities()
+- uid: Hel.ECS.Entities.Container.EntityLookup.GetEntities*
+  name: GetEntities
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_GetEntities_
+  commentId: Overload:Hel.ECS.Entities.Container.EntityLookup.GetEntities
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Container.EntityLookup.GetEntities
+  nameWithType: EntityLookup.GetEntities
+- uid: Hel.ECS.Entities.Container.EntityLookup.GetFirstByName(System.String)
+  name: GetFirstByName(String)
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_GetFirstByName_System_String_
+  commentId: M:Hel.ECS.Entities.Container.EntityLookup.GetFirstByName(System.String)
+  fullName: Hel.ECS.Entities.Container.EntityLookup.GetFirstByName(System.String)
+  nameWithType: EntityLookup.GetFirstByName(String)
+- uid: Hel.ECS.Entities.Container.EntityLookup.GetFirstByName*
+  name: GetFirstByName
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_GetFirstByName_
+  commentId: Overload:Hel.ECS.Entities.Container.EntityLookup.GetFirstByName
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Container.EntityLookup.GetFirstByName
+  nameWithType: EntityLookup.GetFirstByName
+- uid: Hel.ECS.Entities.Container.EntityLookup.OverrideEntity(System.Int32,System.String)
+  name: OverrideEntity(Int32, String)
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_OverrideEntity_System_Int32_System_String_
+  commentId: M:Hel.ECS.Entities.Container.EntityLookup.OverrideEntity(System.Int32,System.String)
+  fullName: Hel.ECS.Entities.Container.EntityLookup.OverrideEntity(System.Int32, System.String)
+  nameWithType: EntityLookup.OverrideEntity(Int32, String)
+- uid: Hel.ECS.Entities.Container.EntityLookup.OverrideEntity*
+  name: OverrideEntity
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_OverrideEntity_
+  commentId: Overload:Hel.ECS.Entities.Container.EntityLookup.OverrideEntity
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Container.EntityLookup.OverrideEntity
+  nameWithType: EntityLookup.OverrideEntity
+- uid: Hel.ECS.Entities.Container.EntityLookup.RemoveAllWithName(System.Int32,System.String)
+  name: RemoveAllWithName(Int32, String)
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_RemoveAllWithName_System_Int32_System_String_
+  commentId: M:Hel.ECS.Entities.Container.EntityLookup.RemoveAllWithName(System.Int32,System.String)
+  fullName: Hel.ECS.Entities.Container.EntityLookup.RemoveAllWithName(System.Int32, System.String)
+  nameWithType: EntityLookup.RemoveAllWithName(Int32, String)
+- uid: Hel.ECS.Entities.Container.EntityLookup.RemoveAllWithName*
+  name: RemoveAllWithName
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_RemoveAllWithName_
+  commentId: Overload:Hel.ECS.Entities.Container.EntityLookup.RemoveAllWithName
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Container.EntityLookup.RemoveAllWithName
+  nameWithType: EntityLookup.RemoveAllWithName
+- uid: Hel.ECS.Entities.Container.EntityLookup.RemoveEntity(System.Int32)
+  name: RemoveEntity(Int32)
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_RemoveEntity_System_Int32_
+  commentId: M:Hel.ECS.Entities.Container.EntityLookup.RemoveEntity(System.Int32)
+  fullName: Hel.ECS.Entities.Container.EntityLookup.RemoveEntity(System.Int32)
+  nameWithType: EntityLookup.RemoveEntity(Int32)
+- uid: Hel.ECS.Entities.Container.EntityLookup.RemoveEntity*
+  name: RemoveEntity
+  href: hel-api/Hel.ECS.Entities.Container.EntityLookup.html#Hel_ECS_Entities_Container_EntityLookup_RemoveEntity_
+  commentId: Overload:Hel.ECS.Entities.Container.EntityLookup.RemoveEntity
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Container.EntityLookup.RemoveEntity
+  nameWithType: EntityLookup.RemoveEntity
+- uid: Hel.ECS.Entities.Logic
+  name: Hel.ECS.Entities.Logic
+  href: hel-api/Hel.ECS.Entities.Logic.html
+  commentId: N:Hel.ECS.Entities.Logic
+  fullName: Hel.ECS.Entities.Logic
+  nameWithType: Hel.ECS.Entities.Logic
+- uid: Hel.ECS.Entities.Logic.EntityManager
+  name: EntityManager
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html
+  commentId: T:Hel.ECS.Entities.Logic.EntityManager
+  fullName: Hel.ECS.Entities.Logic.EntityManager
+  nameWithType: EntityManager
+- uid: Hel.ECS.Entities.Logic.EntityManager.#ctor(Hel.ECS.World.World)
+  name: EntityManager(World)
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager__ctor_Hel_ECS_World_World_
+  commentId: M:Hel.ECS.Entities.Logic.EntityManager.#ctor(Hel.ECS.World.World)
+  fullName: Hel.ECS.Entities.Logic.EntityManager.EntityManager(Hel.ECS.World.World)
+  nameWithType: EntityManager.EntityManager(World)
+- uid: Hel.ECS.Entities.Logic.EntityManager.#ctor*
+  name: EntityManager
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager__ctor_
+  commentId: Overload:Hel.ECS.Entities.Logic.EntityManager.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.EntityManager.EntityManager
+  nameWithType: EntityManager.EntityManager
+- uid: Hel.ECS.Entities.Logic.EntityManager.AddEntity(HashSet{Hel.ECS.Components.Model.IComponent})
+  name: AddEntity(HashSet<IComponent>)
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_AddEntity_HashSet_Hel_ECS_Components_Model_IComponent__
+  commentId: M:Hel.ECS.Entities.Logic.EntityManager.AddEntity(HashSet{Hel.ECS.Components.Model.IComponent})
+  name.vb: AddEntity(HashSet(Of IComponent))
+  fullName: Hel.ECS.Entities.Logic.EntityManager.AddEntity(HashSet<Hel.ECS.Components.Model.IComponent>)
+  fullName.vb: Hel.ECS.Entities.Logic.EntityManager.AddEntity(HashSet(Of Hel.ECS.Components.Model.IComponent))
+  nameWithType: EntityManager.AddEntity(HashSet<IComponent>)
+  nameWithType.vb: EntityManager.AddEntity(HashSet(Of IComponent))
+- uid: Hel.ECS.Entities.Logic.EntityManager.AddEntity(HashSet{Hel.ECS.Components.Model.IComponent},System.String)
+  name: AddEntity(HashSet<IComponent>, String)
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_AddEntity_HashSet_Hel_ECS_Components_Model_IComponent__System_String_
+  commentId: M:Hel.ECS.Entities.Logic.EntityManager.AddEntity(HashSet{Hel.ECS.Components.Model.IComponent},System.String)
+  name.vb: AddEntity(HashSet(Of IComponent), String)
+  fullName: Hel.ECS.Entities.Logic.EntityManager.AddEntity(HashSet<Hel.ECS.Components.Model.IComponent>, System.String)
+  fullName.vb: Hel.ECS.Entities.Logic.EntityManager.AddEntity(HashSet(Of Hel.ECS.Components.Model.IComponent), System.String)
+  nameWithType: EntityManager.AddEntity(HashSet<IComponent>, String)
+  nameWithType.vb: EntityManager.AddEntity(HashSet(Of IComponent), String)
+- uid: Hel.ECS.Entities.Logic.EntityManager.AddEntity(Hel.ECS.Entities.Models.IEntity)
+  name: AddEntity(IEntity)
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_AddEntity_Hel_ECS_Entities_Models_IEntity_
+  commentId: M:Hel.ECS.Entities.Logic.EntityManager.AddEntity(Hel.ECS.Entities.Models.IEntity)
+  fullName: Hel.ECS.Entities.Logic.EntityManager.AddEntity(Hel.ECS.Entities.Models.IEntity)
+  nameWithType: EntityManager.AddEntity(IEntity)
+- uid: Hel.ECS.Entities.Logic.EntityManager.AddEntity*
+  name: AddEntity
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_AddEntity_
+  commentId: Overload:Hel.ECS.Entities.Logic.EntityManager.AddEntity
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.EntityManager.AddEntity
+  nameWithType: EntityManager.AddEntity
+- uid: Hel.ECS.Entities.Logic.EntityManager.ClearEntities
+  name: ClearEntities()
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_ClearEntities
+  commentId: M:Hel.ECS.Entities.Logic.EntityManager.ClearEntities
+  fullName: Hel.ECS.Entities.Logic.EntityManager.ClearEntities()
+  nameWithType: EntityManager.ClearEntities()
+- uid: Hel.ECS.Entities.Logic.EntityManager.ClearEntities*
+  name: ClearEntities
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_ClearEntities_
+  commentId: Overload:Hel.ECS.Entities.Logic.EntityManager.ClearEntities
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.EntityManager.ClearEntities
+  nameWithType: EntityManager.ClearEntities
+- uid: Hel.ECS.Entities.Logic.EntityManager.EntityCount
+  name: EntityCount
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_EntityCount
+  commentId: P:Hel.ECS.Entities.Logic.EntityManager.EntityCount
+  fullName: Hel.ECS.Entities.Logic.EntityManager.EntityCount
+  nameWithType: EntityManager.EntityCount
+- uid: Hel.ECS.Entities.Logic.EntityManager.EntityCount*
+  name: EntityCount
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_EntityCount_
+  commentId: Overload:Hel.ECS.Entities.Logic.EntityManager.EntityCount
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.EntityManager.EntityCount
+  nameWithType: EntityManager.EntityCount
+- uid: Hel.ECS.Entities.Logic.EntityManager.GetComponentDictionary
+  name: GetComponentDictionary()
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_GetComponentDictionary
+  commentId: M:Hel.ECS.Entities.Logic.EntityManager.GetComponentDictionary
+  fullName: Hel.ECS.Entities.Logic.EntityManager.GetComponentDictionary()
+  nameWithType: EntityManager.GetComponentDictionary()
+- uid: Hel.ECS.Entities.Logic.EntityManager.GetComponentDictionary*
+  name: GetComponentDictionary
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_GetComponentDictionary_
+  commentId: Overload:Hel.ECS.Entities.Logic.EntityManager.GetComponentDictionary
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.EntityManager.GetComponentDictionary
+  nameWithType: EntityManager.GetComponentDictionary
+- uid: Hel.ECS.Entities.Logic.EntityManager.GetEntityId(System.String)
+  name: GetEntityId(String)
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_GetEntityId_System_String_
+  commentId: M:Hel.ECS.Entities.Logic.EntityManager.GetEntityId(System.String)
+  fullName: Hel.ECS.Entities.Logic.EntityManager.GetEntityId(System.String)
+  nameWithType: EntityManager.GetEntityId(String)
+- uid: Hel.ECS.Entities.Logic.EntityManager.GetEntityId*
+  name: GetEntityId
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_GetEntityId_
+  commentId: Overload:Hel.ECS.Entities.Logic.EntityManager.GetEntityId
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.EntityManager.GetEntityId
+  nameWithType: EntityManager.GetEntityId
+- uid: Hel.ECS.Entities.Logic.EntityManager.GetEntityIds
+  name: GetEntityIds()
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_GetEntityIds
+  commentId: M:Hel.ECS.Entities.Logic.EntityManager.GetEntityIds
+  fullName: Hel.ECS.Entities.Logic.EntityManager.GetEntityIds()
+  nameWithType: EntityManager.GetEntityIds()
+- uid: Hel.ECS.Entities.Logic.EntityManager.GetEntityIds*
+  name: GetEntityIds
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_GetEntityIds_
+  commentId: Overload:Hel.ECS.Entities.Logic.EntityManager.GetEntityIds
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.EntityManager.GetEntityIds
+  nameWithType: EntityManager.GetEntityIds
+- uid: Hel.ECS.Entities.Logic.EntityManager.RemoveEntity(System.Int32)
+  name: RemoveEntity(Int32)
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_RemoveEntity_System_Int32_
+  commentId: M:Hel.ECS.Entities.Logic.EntityManager.RemoveEntity(System.Int32)
+  fullName: Hel.ECS.Entities.Logic.EntityManager.RemoveEntity(System.Int32)
+  nameWithType: EntityManager.RemoveEntity(Int32)
+- uid: Hel.ECS.Entities.Logic.EntityManager.RemoveEntity*
+  name: RemoveEntity
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_RemoveEntity_
+  commentId: Overload:Hel.ECS.Entities.Logic.EntityManager.RemoveEntity
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.EntityManager.RemoveEntity
+  nameWithType: EntityManager.RemoveEntity
+- uid: Hel.ECS.Entities.Logic.EntityManager.UpdateEntitiesInStaging
+  name: UpdateEntitiesInStaging()
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_UpdateEntitiesInStaging
+  commentId: M:Hel.ECS.Entities.Logic.EntityManager.UpdateEntitiesInStaging
+  fullName: Hel.ECS.Entities.Logic.EntityManager.UpdateEntitiesInStaging()
+  nameWithType: EntityManager.UpdateEntitiesInStaging()
+- uid: Hel.ECS.Entities.Logic.EntityManager.UpdateEntitiesInStaging*
+  name: UpdateEntitiesInStaging
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_UpdateEntitiesInStaging_
+  commentId: Overload:Hel.ECS.Entities.Logic.EntityManager.UpdateEntitiesInStaging
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.EntityManager.UpdateEntitiesInStaging
+  nameWithType: EntityManager.UpdateEntitiesInStaging
+- uid: Hel.ECS.Entities.Logic.EntityManager.World
+  name: World
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_World
+  commentId: P:Hel.ECS.Entities.Logic.EntityManager.World
+  fullName: Hel.ECS.Entities.Logic.EntityManager.World
+  nameWithType: EntityManager.World
+- uid: Hel.ECS.Entities.Logic.EntityManager.World*
+  name: World
+  href: hel-api/Hel.ECS.Entities.Logic.EntityManager.html#Hel_ECS_Entities_Logic_EntityManager_World_
+  commentId: Overload:Hel.ECS.Entities.Logic.EntityManager.World
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.EntityManager.World
+  nameWithType: EntityManager.World
+- uid: Hel.ECS.Entities.Logic.IEntityManager
+  name: IEntityManager
+  href: hel-api/Hel.ECS.Entities.Logic.IEntityManager.html
+  commentId: T:Hel.ECS.Entities.Logic.IEntityManager
+  fullName: Hel.ECS.Entities.Logic.IEntityManager
+  nameWithType: IEntityManager
+- uid: Hel.ECS.Entities.Logic.IEntityManager.AddEntity(Hel.ECS.Entities.Models.IEntity)
+  name: AddEntity(IEntity)
+  href: hel-api/Hel.ECS.Entities.Logic.IEntityManager.html#Hel_ECS_Entities_Logic_IEntityManager_AddEntity_Hel_ECS_Entities_Models_IEntity_
+  commentId: M:Hel.ECS.Entities.Logic.IEntityManager.AddEntity(Hel.ECS.Entities.Models.IEntity)
+  fullName: Hel.ECS.Entities.Logic.IEntityManager.AddEntity(Hel.ECS.Entities.Models.IEntity)
+  nameWithType: IEntityManager.AddEntity(IEntity)
+- uid: Hel.ECS.Entities.Logic.IEntityManager.AddEntity*
+  name: AddEntity
+  href: hel-api/Hel.ECS.Entities.Logic.IEntityManager.html#Hel_ECS_Entities_Logic_IEntityManager_AddEntity_
+  commentId: Overload:Hel.ECS.Entities.Logic.IEntityManager.AddEntity
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.IEntityManager.AddEntity
+  nameWithType: IEntityManager.AddEntity
+- uid: Hel.ECS.Entities.Logic.IEntityManager.GetEntityIds
+  name: GetEntityIds()
+  href: hel-api/Hel.ECS.Entities.Logic.IEntityManager.html#Hel_ECS_Entities_Logic_IEntityManager_GetEntityIds
+  commentId: M:Hel.ECS.Entities.Logic.IEntityManager.GetEntityIds
+  fullName: Hel.ECS.Entities.Logic.IEntityManager.GetEntityIds()
+  nameWithType: IEntityManager.GetEntityIds()
+- uid: Hel.ECS.Entities.Logic.IEntityManager.GetEntityIds*
+  name: GetEntityIds
+  href: hel-api/Hel.ECS.Entities.Logic.IEntityManager.html#Hel_ECS_Entities_Logic_IEntityManager_GetEntityIds_
+  commentId: Overload:Hel.ECS.Entities.Logic.IEntityManager.GetEntityIds
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.IEntityManager.GetEntityIds
+  nameWithType: IEntityManager.GetEntityIds
+- uid: Hel.ECS.Entities.Logic.IEntityManager.World
+  name: World
+  href: hel-api/Hel.ECS.Entities.Logic.IEntityManager.html#Hel_ECS_Entities_Logic_IEntityManager_World
+  commentId: P:Hel.ECS.Entities.Logic.IEntityManager.World
+  fullName: Hel.ECS.Entities.Logic.IEntityManager.World
+  nameWithType: IEntityManager.World
+- uid: Hel.ECS.Entities.Logic.IEntityManager.World*
+  name: World
+  href: hel-api/Hel.ECS.Entities.Logic.IEntityManager.html#Hel_ECS_Entities_Logic_IEntityManager_World_
+  commentId: Overload:Hel.ECS.Entities.Logic.IEntityManager.World
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Logic.IEntityManager.World
+  nameWithType: IEntityManager.World
+- uid: Hel.ECS.Entities.Matcher
+  name: Hel.ECS.Entities.Matcher
+  href: hel-api/Hel.ECS.Entities.Matcher.html
+  commentId: N:Hel.ECS.Entities.Matcher
+  fullName: Hel.ECS.Entities.Matcher
+  nameWithType: Hel.ECS.Entities.Matcher
+- uid: Hel.ECS.Entities.Matcher.EntityGroupQuery
+  name: EntityGroupQuery
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityGroupQuery.html
+  commentId: T:Hel.ECS.Entities.Matcher.EntityGroupQuery
+  fullName: Hel.ECS.Entities.Matcher.EntityGroupQuery
+  nameWithType: EntityGroupQuery
+- uid: Hel.ECS.Entities.Matcher.EntityGroupQuery.Build
+  name: Build()
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityGroupQuery.html#Hel_ECS_Entities_Matcher_EntityGroupQuery_Build
+  commentId: M:Hel.ECS.Entities.Matcher.EntityGroupQuery.Build
+  fullName: Hel.ECS.Entities.Matcher.EntityGroupQuery.Build()
+  nameWithType: EntityGroupQuery.Build()
+- uid: Hel.ECS.Entities.Matcher.EntityGroupQuery.Build*
+  name: Build
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityGroupQuery.html#Hel_ECS_Entities_Matcher_EntityGroupQuery_Build_
+  commentId: Overload:Hel.ECS.Entities.Matcher.EntityGroupQuery.Build
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.EntityGroupQuery.Build
+  nameWithType: EntityGroupQuery.Build
+- uid: Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing(Type)
+  name: Containing(Type)
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityGroupQuery.html#Hel_ECS_Entities_Matcher_EntityGroupQuery_Containing_Type_
+  commentId: M:Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing(Type)
+  fullName: Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing(Type)
+  nameWithType: EntityGroupQuery.Containing(Type)
+- uid: Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing(Type[])
+  name: Containing(Type[])
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityGroupQuery.html#Hel_ECS_Entities_Matcher_EntityGroupQuery_Containing_Type___
+  commentId: M:Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing(Type[])
+  name.vb: Containing(Type())
+  fullName: Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing(Type[])
+  fullName.vb: Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing(Type())
+  nameWithType: EntityGroupQuery.Containing(Type[])
+  nameWithType.vb: EntityGroupQuery.Containing(Type())
+- uid: Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing*
+  name: Containing
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityGroupQuery.html#Hel_ECS_Entities_Matcher_EntityGroupQuery_Containing_
+  commentId: Overload:Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing
+  nameWithType: EntityGroupQuery.Containing
+- uid: Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing``1
+  name: Containing<T>()
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityGroupQuery.html#Hel_ECS_Entities_Matcher_EntityGroupQuery_Containing__1
+  commentId: M:Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing``1
+  name.vb: Containing(Of T)()
+  fullName: Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing<T>()
+  fullName.vb: Hel.ECS.Entities.Matcher.EntityGroupQuery.Containing(Of T)()
+  nameWithType: EntityGroupQuery.Containing<T>()
+  nameWithType.vb: EntityGroupQuery.Containing(Of T)()
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher
+  name: EntityMatcher
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html
+  commentId: T:Hel.ECS.Entities.Matcher.EntityMatcher
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher
+  nameWithType: EntityMatcher
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.#ctor(Hel.ECS.World.World)
+  name: EntityMatcher(World)
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher__ctor_Hel_ECS_World_World_
+  commentId: M:Hel.ECS.Entities.Matcher.EntityMatcher.#ctor(Hel.ECS.World.World)
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.EntityMatcher(Hel.ECS.World.World)
+  nameWithType: EntityMatcher.EntityMatcher(World)
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.#ctor*
+  name: EntityMatcher
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher__ctor_
+  commentId: Overload:Hel.ECS.Entities.Matcher.EntityMatcher.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.EntityMatcher
+  nameWithType: EntityMatcher.EntityMatcher
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.GetEntityGroup(System.Int32)
+  name: GetEntityGroup(Int32)
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_GetEntityGroup_System_Int32_
+  commentId: M:Hel.ECS.Entities.Matcher.EntityMatcher.GetEntityGroup(System.Int32)
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.GetEntityGroup(System.Int32)
+  nameWithType: EntityMatcher.GetEntityGroup(Int32)
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.GetEntityGroup*
+  name: GetEntityGroup
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_GetEntityGroup_
+  commentId: Overload:Hel.ECS.Entities.Matcher.EntityMatcher.GetEntityGroup
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.GetEntityGroup
+  nameWithType: EntityMatcher.GetEntityGroup
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.GetEnumerator
+  name: GetEnumerator()
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_GetEnumerator
+  commentId: M:Hel.ECS.Entities.Matcher.EntityMatcher.GetEnumerator
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.GetEnumerator()
+  nameWithType: EntityMatcher.GetEnumerator()
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.GetEnumerator*
+  name: GetEnumerator
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_GetEnumerator_
+  commentId: Overload:Hel.ECS.Entities.Matcher.EntityMatcher.GetEnumerator
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.GetEnumerator
+  nameWithType: EntityMatcher.GetEnumerator
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.Register*
+  name: Register
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_Register_
+  commentId: Overload:Hel.ECS.Entities.Matcher.EntityMatcher.Register
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.Register
+  nameWithType: EntityMatcher.Register
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.Register``1
+  name: Register<T>()
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_Register__1
+  commentId: M:Hel.ECS.Entities.Matcher.EntityMatcher.Register``1
+  name.vb: Register(Of T)()
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.Register<T>()
+  fullName.vb: Hel.ECS.Entities.Matcher.EntityMatcher.Register(Of T)()
+  nameWithType: EntityMatcher.Register<T>()
+  nameWithType.vb: EntityMatcher.Register(Of T)()
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.Register``1(Hel.ECS.Systems.System.ISystem{``0}[])
+  name: Register<T>(ISystem<T>[])
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_Register__1_Hel_ECS_Systems_System_ISystem___0____
+  commentId: M:Hel.ECS.Entities.Matcher.EntityMatcher.Register``1(Hel.ECS.Systems.System.ISystem{``0}[])
+  name.vb: Register(Of T)(ISystem(Of T)())
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.Register<T>(Hel.ECS.Systems.System.ISystem<T>[])
+  fullName.vb: Hel.ECS.Entities.Matcher.EntityMatcher.Register(Of T)(Hel.ECS.Systems.System.ISystem(Of T)())
+  nameWithType: EntityMatcher.Register<T>(ISystem<T>[])
+  nameWithType.vb: EntityMatcher.Register(Of T)(ISystem(Of T)())
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.Register``2
+  name: Register<T, T2>()
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_Register__2
+  commentId: M:Hel.ECS.Entities.Matcher.EntityMatcher.Register``2
+  name.vb: Register(Of T, T2)()
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.Register<T, T2>()
+  fullName.vb: Hel.ECS.Entities.Matcher.EntityMatcher.Register(Of T, T2)()
+  nameWithType: EntityMatcher.Register<T, T2>()
+  nameWithType.vb: EntityMatcher.Register(Of T, T2)()
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.Register``2(Hel.ECS.Systems.System.ISystem{``0,``1}[])
+  name: Register<T, T2>(ISystem<T, T2>[])
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_Register__2_Hel_ECS_Systems_System_ISystem___0___1____
+  commentId: M:Hel.ECS.Entities.Matcher.EntityMatcher.Register``2(Hel.ECS.Systems.System.ISystem{``0,``1}[])
+  name.vb: Register(Of T, T2)(ISystem(Of T, T2)())
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.Register<T, T2>(Hel.ECS.Systems.System.ISystem<T, T2>[])
+  fullName.vb: Hel.ECS.Entities.Matcher.EntityMatcher.Register(Of T, T2)(Hel.ECS.Systems.System.ISystem(Of T, T2)())
+  nameWithType: EntityMatcher.Register<T, T2>(ISystem<T, T2>[])
+  nameWithType.vb: EntityMatcher.Register(Of T, T2)(ISystem(Of T, T2)())
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.Register``3
+  name: Register<T, T2, T3>()
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_Register__3
+  commentId: M:Hel.ECS.Entities.Matcher.EntityMatcher.Register``3
+  name.vb: Register(Of T, T2, T3)()
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.Register<T, T2, T3>()
+  fullName.vb: Hel.ECS.Entities.Matcher.EntityMatcher.Register(Of T, T2, T3)()
+  nameWithType: EntityMatcher.Register<T, T2, T3>()
+  nameWithType.vb: EntityMatcher.Register(Of T, T2, T3)()
+- uid: Hel.ECS.Entities.Matcher.EntityMatcher.Register``3(Hel.ECS.Systems.System.ISystem{``0,``1,``2}[])
+  name: Register<T, T2, T3>(ISystem<T, T2, T3>[])
+  href: hel-api/Hel.ECS.Entities.Matcher.EntityMatcher.html#Hel_ECS_Entities_Matcher_EntityMatcher_Register__3_Hel_ECS_Systems_System_ISystem___0___1___2____
+  commentId: M:Hel.ECS.Entities.Matcher.EntityMatcher.Register``3(Hel.ECS.Systems.System.ISystem{``0,``1,``2}[])
+  name.vb: Register(Of T, T2, T3)(ISystem(Of T, T2, T3)())
+  fullName: Hel.ECS.Entities.Matcher.EntityMatcher.Register<T, T2, T3>(Hel.ECS.Systems.System.ISystem<T, T2, T3>[])
+  fullName.vb: Hel.ECS.Entities.Matcher.EntityMatcher.Register(Of T, T2, T3)(Hel.ECS.Systems.System.ISystem(Of T, T2, T3)())
+  nameWithType: EntityMatcher.Register<T, T2, T3>(ISystem<T, T2, T3>[])
+  nameWithType.vb: EntityMatcher.Register(Of T, T2, T3)(ISystem(Of T, T2, T3)())
+- uid: Hel.ECS.Entities.Matcher.Groups
+  name: Hel.ECS.Entities.Matcher.Groups
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.html
+  commentId: N:Hel.ECS.Entities.Matcher.Groups
+  fullName: Hel.ECS.Entities.Matcher.Groups
+  nameWithType: Hel.ECS.Entities.Matcher.Groups
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1
+  name: EntityGroup<TComponent1>
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html
+  commentId: T:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1
+  name.vb: EntityGroup(Of TComponent1)
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1)
+  nameWithType: EntityGroup<TComponent1>
+  nameWithType.vb: EntityGroup(Of TComponent1)
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.#ctor(Dictionary{Type,Hel.ECS.Components.Container.ComponentContainer})
+  name: EntityGroup(Dictionary<Type, ComponentContainer>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1__ctor_Dictionary_Type_Hel_ECS_Components_Container_ComponentContainer__
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.#ctor(Dictionary{Type,Hel.ECS.Components.Container.ComponentContainer})
+  name.vb: EntityGroup(Dictionary(Of Type, ComponentContainer))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.EntityGroup(Dictionary<Type, Hel.ECS.Components.Container.ComponentContainer>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).EntityGroup(Dictionary(Of Type, Hel.ECS.Components.Container.ComponentContainer))
+  nameWithType: EntityGroup<TComponent1>.EntityGroup(Dictionary<Type, ComponentContainer>)
+  nameWithType.vb: EntityGroup(Of TComponent1).EntityGroup(Dictionary(Of Type, ComponentContainer))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.#ctor*
+  name: EntityGroup
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1__ctor_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.EntityGroup
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).EntityGroup
+  nameWithType: EntityGroup<TComponent1>.EntityGroup
+  nameWithType.vb: EntityGroup(Of TComponent1).EntityGroup
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.AddSystem(Hel.ECS.Systems.System.ISystem{`0})
+  name: AddSystem(ISystem<TComponent1>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1_AddSystem_Hel_ECS_Systems_System_ISystem__0__
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.AddSystem(Hel.ECS.Systems.System.ISystem{`0})
+  name.vb: AddSystem(ISystem(Of TComponent1))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.AddSystem(Hel.ECS.Systems.System.ISystem<TComponent1>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).AddSystem(Hel.ECS.Systems.System.ISystem(Of TComponent1))
+  nameWithType: EntityGroup<TComponent1>.AddSystem(ISystem<TComponent1>)
+  nameWithType.vb: EntityGroup(Of TComponent1).AddSystem(ISystem(Of TComponent1))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.AddSystem*
+  name: AddSystem
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1_AddSystem_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.AddSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.AddSystem
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).AddSystem
+  nameWithType: EntityGroup<TComponent1>.AddSystem
+  nameWithType.vb: EntityGroup(Of TComponent1).AddSystem
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.AddSystems(IEnumerable{Hel.ECS.Systems.System.ISystem{`0}})
+  name: AddSystems(IEnumerable<ISystem<TComponent1>>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1_AddSystems_IEnumerable_Hel_ECS_Systems_System_ISystem__0___
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.AddSystems(IEnumerable{Hel.ECS.Systems.System.ISystem{`0}})
+  name.vb: AddSystems(IEnumerable(Of ISystem(Of TComponent1)))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.AddSystems(IEnumerable<Hel.ECS.Systems.System.ISystem<TComponent1>>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).AddSystems(IEnumerable(Of Hel.ECS.Systems.System.ISystem(Of TComponent1)))
+  nameWithType: EntityGroup<TComponent1>.AddSystems(IEnumerable<ISystem<TComponent1>>)
+  nameWithType.vb: EntityGroup(Of TComponent1).AddSystems(IEnumerable(Of ISystem(Of TComponent1)))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.AddSystems*
+  name: AddSystems
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1_AddSystems_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.AddSystems
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.AddSystems
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).AddSystems
+  nameWithType: EntityGroup<TComponent1>.AddSystems
+  nameWithType.vb: EntityGroup(Of TComponent1).AddSystems
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.ForEach(Func{System.Int32,`0,System.Nullable{`0}})
+  name: ForEach(Func<Int32, TComponent1, Nullable<TComponent1>>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1_ForEach_Func_System_Int32__0_System_Nullable__0___
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.ForEach(Func{System.Int32,`0,System.Nullable{`0}})
+  name.vb: ForEach(Func(Of Int32, TComponent1, Nullable(Of TComponent1)))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.ForEach(Func<System.Int32, TComponent1, System.Nullable<TComponent1>>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).ForEach(Func(Of System.Int32, TComponent1, System.Nullable(Of TComponent1)))
+  nameWithType: EntityGroup<TComponent1>.ForEach(Func<Int32, TComponent1, Nullable<TComponent1>>)
+  nameWithType.vb: EntityGroup(Of TComponent1).ForEach(Func(Of Int32, TComponent1, Nullable(Of TComponent1)))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.ForEach*
+  name: ForEach
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1_ForEach_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.ForEach
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.ForEach
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).ForEach
+  nameWithType: EntityGroup<TComponent1>.ForEach
+  nameWithType.vb: EntityGroup(Of TComponent1).ForEach
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.OnEntitiesChanged(System.Int32[],Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  name: OnEntitiesChanged(Int32[], ComponentContainer.EntityChangeDirection)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1_OnEntitiesChanged_System_Int32___Hel_ECS_Components_Container_ComponentContainer_EntityChangeDirection_
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.OnEntitiesChanged(System.Int32[],Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  name.vb: OnEntitiesChanged(Int32(), ComponentContainer.EntityChangeDirection)
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.OnEntitiesChanged(System.Int32[], Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).OnEntitiesChanged(System.Int32(), Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  nameWithType: EntityGroup<TComponent1>.OnEntitiesChanged(Int32[], ComponentContainer.EntityChangeDirection)
+  nameWithType.vb: EntityGroup(Of TComponent1).OnEntitiesChanged(Int32(), ComponentContainer.EntityChangeDirection)
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.OnEntitiesChanged*
+  name: OnEntitiesChanged
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1_OnEntitiesChanged_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.OnEntitiesChanged
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.OnEntitiesChanged
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).OnEntitiesChanged
+  nameWithType: EntityGroup<TComponent1>.OnEntitiesChanged
+  nameWithType.vb: EntityGroup(Of TComponent1).OnEntitiesChanged
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.RunSystems(System.Single)
+  name: RunSystems(Single)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1_RunSystems_System_Single_
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.RunSystems(System.Single)
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.RunSystems(System.Single)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).RunSystems(System.Single)
+  nameWithType: EntityGroup<TComponent1>.RunSystems(Single)
+  nameWithType.vb: EntityGroup(Of TComponent1).RunSystems(Single)
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.RunSystems*
+  name: RunSystems
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_1_RunSystems_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`1.RunSystems
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1>.RunSystems
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1).RunSystems
+  nameWithType: EntityGroup<TComponent1>.RunSystems
+  nameWithType.vb: EntityGroup(Of TComponent1).RunSystems
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2
+  name: EntityGroup<TComponent1, TComponent2>
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html
+  commentId: T:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2
+  name.vb: EntityGroup(Of TComponent1, TComponent2)
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2)
+  nameWithType: EntityGroup<TComponent1, TComponent2>
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2)
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.#ctor(Dictionary{Type,Hel.ECS.Components.Container.ComponentContainer})
+  name: EntityGroup(Dictionary<Type, ComponentContainer>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2__ctor_Dictionary_Type_Hel_ECS_Components_Container_ComponentContainer__
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.#ctor(Dictionary{Type,Hel.ECS.Components.Container.ComponentContainer})
+  name.vb: EntityGroup(Dictionary(Of Type, ComponentContainer))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.EntityGroup(Dictionary<Type, Hel.ECS.Components.Container.ComponentContainer>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).EntityGroup(Dictionary(Of Type, Hel.ECS.Components.Container.ComponentContainer))
+  nameWithType: EntityGroup<TComponent1, TComponent2>.EntityGroup(Dictionary<Type, ComponentContainer>)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).EntityGroup(Dictionary(Of Type, ComponentContainer))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.#ctor*
+  name: EntityGroup
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2__ctor_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.EntityGroup
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).EntityGroup
+  nameWithType: EntityGroup<TComponent1, TComponent2>.EntityGroup
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).EntityGroup
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.AddSystem(Hel.ECS.Systems.System.ISystem{`0,`1})
+  name: AddSystem(ISystem<TComponent1, TComponent2>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2_AddSystem_Hel_ECS_Systems_System_ISystem__0__1__
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.AddSystem(Hel.ECS.Systems.System.ISystem{`0,`1})
+  name.vb: AddSystem(ISystem(Of TComponent1, TComponent2))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.AddSystem(Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).AddSystem(Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2))
+  nameWithType: EntityGroup<TComponent1, TComponent2>.AddSystem(ISystem<TComponent1, TComponent2>)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).AddSystem(ISystem(Of TComponent1, TComponent2))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.AddSystem*
+  name: AddSystem
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2_AddSystem_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.AddSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.AddSystem
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).AddSystem
+  nameWithType: EntityGroup<TComponent1, TComponent2>.AddSystem
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).AddSystem
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.AddSystems(IEnumerable{Hel.ECS.Systems.System.ISystem{`0,`1}})
+  name: AddSystems(IEnumerable<ISystem<TComponent1, TComponent2>>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2_AddSystems_IEnumerable_Hel_ECS_Systems_System_ISystem__0__1___
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.AddSystems(IEnumerable{Hel.ECS.Systems.System.ISystem{`0,`1}})
+  name.vb: AddSystems(IEnumerable(Of ISystem(Of TComponent1, TComponent2)))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.AddSystems(IEnumerable<Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2>>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).AddSystems(IEnumerable(Of Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2)))
+  nameWithType: EntityGroup<TComponent1, TComponent2>.AddSystems(IEnumerable<ISystem<TComponent1, TComponent2>>)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).AddSystems(IEnumerable(Of ISystem(Of TComponent1, TComponent2)))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.AddSystems*
+  name: AddSystems
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2_AddSystems_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.AddSystems
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.AddSystems
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).AddSystems
+  nameWithType: EntityGroup<TComponent1, TComponent2>.AddSystems
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).AddSystems
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.ForEach(Func{System.Int32,`0,`1,System.Nullable{System.ValueTuple{System.Nullable{`0},System.Nullable{`1}}}})
+  name: ForEach(Func<Int32, TComponent1, TComponent2, Nullable<(Nullable<TComponent1>, Nullable<TComponent2>)>>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2_ForEach_Func_System_Int32__0__1_System_Nullable_System_ValueTuple_System_Nullable__0__System_Nullable__1_____
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.ForEach(Func{System.Int32,`0,`1,System.Nullable{System.ValueTuple{System.Nullable{`0},System.Nullable{`1}}}})
+  name.vb: ForEach(Func(Of Int32, TComponent1, TComponent2, Nullable(Of (Nullable(Of TComponent1), Nullable(Of TComponent2)))))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.ForEach(Func<System.Int32, TComponent1, TComponent2, System.Nullable<System.ValueTuple<System.Nullable<TComponent1>, System.Nullable<TComponent2>>>>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).ForEach(Func(Of System.Int32, TComponent1, TComponent2, System.Nullable(Of System.ValueTuple(Of System.Nullable(Of TComponent1), System.Nullable(Of TComponent2)))))
+  nameWithType: EntityGroup<TComponent1, TComponent2>.ForEach(Func<Int32, TComponent1, TComponent2, Nullable<(Nullable<TComponent1>, Nullable<TComponent2>)>>)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).ForEach(Func(Of Int32, TComponent1, TComponent2, Nullable(Of (Nullable(Of TComponent1), Nullable(Of TComponent2)))))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.ForEach*
+  name: ForEach
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2_ForEach_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.ForEach
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.ForEach
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).ForEach
+  nameWithType: EntityGroup<TComponent1, TComponent2>.ForEach
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).ForEach
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.OnEntitiesChanged(System.Int32[],Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  name: OnEntitiesChanged(Int32[], ComponentContainer.EntityChangeDirection)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2_OnEntitiesChanged_System_Int32___Hel_ECS_Components_Container_ComponentContainer_EntityChangeDirection_
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.OnEntitiesChanged(System.Int32[],Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  name.vb: OnEntitiesChanged(Int32(), ComponentContainer.EntityChangeDirection)
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.OnEntitiesChanged(System.Int32[], Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).OnEntitiesChanged(System.Int32(), Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  nameWithType: EntityGroup<TComponent1, TComponent2>.OnEntitiesChanged(Int32[], ComponentContainer.EntityChangeDirection)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).OnEntitiesChanged(Int32(), ComponentContainer.EntityChangeDirection)
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.OnEntitiesChanged*
+  name: OnEntitiesChanged
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2_OnEntitiesChanged_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.OnEntitiesChanged
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.OnEntitiesChanged
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).OnEntitiesChanged
+  nameWithType: EntityGroup<TComponent1, TComponent2>.OnEntitiesChanged
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).OnEntitiesChanged
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.RunSystems(System.Single)
+  name: RunSystems(Single)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2_RunSystems_System_Single_
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.RunSystems(System.Single)
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.RunSystems(System.Single)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).RunSystems(System.Single)
+  nameWithType: EntityGroup<TComponent1, TComponent2>.RunSystems(Single)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).RunSystems(Single)
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.RunSystems*
+  name: RunSystems
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_2_RunSystems_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`2.RunSystems
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2>.RunSystems
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2).RunSystems
+  nameWithType: EntityGroup<TComponent1, TComponent2>.RunSystems
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2).RunSystems
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3
+  name: EntityGroup<TComponent1, TComponent2, TComponent3>
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html
+  commentId: T:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3
+  name.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3)
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3)
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3)
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.#ctor(Dictionary{Type,Hel.ECS.Components.Container.ComponentContainer})
+  name: EntityGroup(Dictionary<Type, ComponentContainer>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3__ctor_Dictionary_Type_Hel_ECS_Components_Container_ComponentContainer__
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.#ctor(Dictionary{Type,Hel.ECS.Components.Container.ComponentContainer})
+  name.vb: EntityGroup(Dictionary(Of Type, ComponentContainer))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.EntityGroup(Dictionary<Type, Hel.ECS.Components.Container.ComponentContainer>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).EntityGroup(Dictionary(Of Type, Hel.ECS.Components.Container.ComponentContainer))
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.EntityGroup(Dictionary<Type, ComponentContainer>)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).EntityGroup(Dictionary(Of Type, ComponentContainer))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.#ctor*
+  name: EntityGroup
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3__ctor_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.EntityGroup
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).EntityGroup
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.EntityGroup
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).EntityGroup
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.AddSystem(Hel.ECS.Systems.System.ISystem{`0,`1,`2})
+  name: AddSystem(ISystem<TComponent1, TComponent2, TComponent3>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3_AddSystem_Hel_ECS_Systems_System_ISystem__0__1__2__
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.AddSystem(Hel.ECS.Systems.System.ISystem{`0,`1,`2})
+  name.vb: AddSystem(ISystem(Of TComponent1, TComponent2, TComponent3))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.AddSystem(Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2, TComponent3>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystem(Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2, TComponent3))
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.AddSystem(ISystem<TComponent1, TComponent2, TComponent3>)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystem(ISystem(Of TComponent1, TComponent2, TComponent3))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.AddSystem*
+  name: AddSystem
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3_AddSystem_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.AddSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.AddSystem
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystem
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.AddSystem
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystem
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.AddSystems(IEnumerable{Hel.ECS.Systems.System.ISystem{`0,`1,`2}})
+  name: AddSystems(IEnumerable<ISystem<TComponent1, TComponent2, TComponent3>>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3_AddSystems_IEnumerable_Hel_ECS_Systems_System_ISystem__0__1__2___
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.AddSystems(IEnumerable{Hel.ECS.Systems.System.ISystem{`0,`1,`2}})
+  name.vb: AddSystems(IEnumerable(Of ISystem(Of TComponent1, TComponent2, TComponent3)))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.AddSystems(IEnumerable<Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2, TComponent3>>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystems(IEnumerable(Of Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2, TComponent3)))
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.AddSystems(IEnumerable<ISystem<TComponent1, TComponent2, TComponent3>>)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystems(IEnumerable(Of ISystem(Of TComponent1, TComponent2, TComponent3)))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.AddSystems*
+  name: AddSystems
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3_AddSystems_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.AddSystems
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.AddSystems
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystems
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.AddSystems
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystems
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.ForEach(Func{System.Int32,`0,`1,`2,System.Nullable{System.ValueTuple{System.Nullable{`0},System.Nullable{`1},System.Nullable{`2}}}})
+  name: ForEach(Func<Int32, TComponent1, TComponent2, TComponent3, Nullable<(Nullable<TComponent1>, Nullable<TComponent2>, Nullable<TComponent3>)>>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3_ForEach_Func_System_Int32__0__1__2_System_Nullable_System_ValueTuple_System_Nullable__0__System_Nullable__1__System_Nullable__2_____
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.ForEach(Func{System.Int32,`0,`1,`2,System.Nullable{System.ValueTuple{System.Nullable{`0},System.Nullable{`1},System.Nullable{`2}}}})
+  name.vb: ForEach(Func(Of Int32, TComponent1, TComponent2, TComponent3, Nullable(Of (Nullable(Of TComponent1), Nullable(Of TComponent2), Nullable(Of TComponent3)))))
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.ForEach(Func<System.Int32, TComponent1, TComponent2, TComponent3, System.Nullable<System.ValueTuple<System.Nullable<TComponent1>, System.Nullable<TComponent2>, System.Nullable<TComponent3>>>>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).ForEach(Func(Of System.Int32, TComponent1, TComponent2, TComponent3, System.Nullable(Of System.ValueTuple(Of System.Nullable(Of TComponent1), System.Nullable(Of TComponent2), System.Nullable(Of TComponent3)))))
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.ForEach(Func<Int32, TComponent1, TComponent2, TComponent3, Nullable<(Nullable<TComponent1>, Nullable<TComponent2>, Nullable<TComponent3>)>>)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).ForEach(Func(Of Int32, TComponent1, TComponent2, TComponent3, Nullable(Of (Nullable(Of TComponent1), Nullable(Of TComponent2), Nullable(Of TComponent3)))))
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.ForEach*
+  name: ForEach
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3_ForEach_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.ForEach
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.ForEach
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).ForEach
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.ForEach
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).ForEach
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.OnEntitiesChanged(System.Int32[],Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  name: OnEntitiesChanged(Int32[], ComponentContainer.EntityChangeDirection)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3_OnEntitiesChanged_System_Int32___Hel_ECS_Components_Container_ComponentContainer_EntityChangeDirection_
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.OnEntitiesChanged(System.Int32[],Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  name.vb: OnEntitiesChanged(Int32(), ComponentContainer.EntityChangeDirection)
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.OnEntitiesChanged(System.Int32[], Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).OnEntitiesChanged(System.Int32(), Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.OnEntitiesChanged(Int32[], ComponentContainer.EntityChangeDirection)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).OnEntitiesChanged(Int32(), ComponentContainer.EntityChangeDirection)
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.OnEntitiesChanged*
+  name: OnEntitiesChanged
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3_OnEntitiesChanged_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.OnEntitiesChanged
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.OnEntitiesChanged
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).OnEntitiesChanged
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.OnEntitiesChanged
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).OnEntitiesChanged
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.RunSystems(System.Single)
+  name: RunSystems(Single)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3_RunSystems_System_Single_
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.RunSystems(System.Single)
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.RunSystems(System.Single)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).RunSystems(System.Single)
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.RunSystems(Single)
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).RunSystems(Single)
+- uid: Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.RunSystems*
+  name: RunSystems
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.EntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_EntityGroup_3_RunSystems_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.EntityGroup`3.RunSystems
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.EntityGroup<TComponent1, TComponent2, TComponent3>.RunSystems
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.EntityGroup(Of TComponent1, TComponent2, TComponent3).RunSystems
+  nameWithType: EntityGroup<TComponent1, TComponent2, TComponent3>.RunSystems
+  nameWithType.vb: EntityGroup(Of TComponent1, TComponent2, TComponent3).RunSystems
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup
+  name: IEntityGroup
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup.html
+  commentId: T:Hel.ECS.Entities.Matcher.Groups.IEntityGroup
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup
+  nameWithType: IEntityGroup
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup.OnEntitiesChanged(System.Int32[],Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  name: OnEntitiesChanged(Int32[], ComponentContainer.EntityChangeDirection)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_OnEntitiesChanged_System_Int32___Hel_ECS_Components_Container_ComponentContainer_EntityChangeDirection_
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.IEntityGroup.OnEntitiesChanged(System.Int32[],Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  name.vb: OnEntitiesChanged(Int32(), ComponentContainer.EntityChangeDirection)
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup.OnEntitiesChanged(System.Int32[], Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup.OnEntitiesChanged(System.Int32(), Hel.ECS.Components.Container.ComponentContainer.EntityChangeDirection)
+  nameWithType: IEntityGroup.OnEntitiesChanged(Int32[], ComponentContainer.EntityChangeDirection)
+  nameWithType.vb: IEntityGroup.OnEntitiesChanged(Int32(), ComponentContainer.EntityChangeDirection)
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup.OnEntitiesChanged*
+  name: OnEntitiesChanged
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_OnEntitiesChanged_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.IEntityGroup.OnEntitiesChanged
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup.OnEntitiesChanged
+  nameWithType: IEntityGroup.OnEntitiesChanged
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup.RunSystems(System.Single)
+  name: RunSystems(Single)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_RunSystems_System_Single_
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.IEntityGroup.RunSystems(System.Single)
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup.RunSystems(System.Single)
+  nameWithType: IEntityGroup.RunSystems(Single)
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup.RunSystems*
+  name: RunSystems
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_RunSystems_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.IEntityGroup.RunSystems
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup.RunSystems
+  nameWithType: IEntityGroup.RunSystems
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`1
+  name: IEntityGroup<TComponent1>
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-1.html
+  commentId: T:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`1
+  name.vb: IEntityGroup(Of TComponent1)
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1>
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1)
+  nameWithType: IEntityGroup<TComponent1>
+  nameWithType.vb: IEntityGroup(Of TComponent1)
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`1.AddSystem(Hel.ECS.Systems.System.ISystem{`0})
+  name: AddSystem(ISystem<TComponent1>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_1_AddSystem_Hel_ECS_Systems_System_ISystem__0__
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`1.AddSystem(Hel.ECS.Systems.System.ISystem{`0})
+  name.vb: AddSystem(ISystem(Of TComponent1))
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1>.AddSystem(Hel.ECS.Systems.System.ISystem<TComponent1>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1).AddSystem(Hel.ECS.Systems.System.ISystem(Of TComponent1))
+  nameWithType: IEntityGroup<TComponent1>.AddSystem(ISystem<TComponent1>)
+  nameWithType.vb: IEntityGroup(Of TComponent1).AddSystem(ISystem(Of TComponent1))
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`1.AddSystem*
+  name: AddSystem
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_1_AddSystem_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`1.AddSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1>.AddSystem
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1).AddSystem
+  nameWithType: IEntityGroup<TComponent1>.AddSystem
+  nameWithType.vb: IEntityGroup(Of TComponent1).AddSystem
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`1.ForEach(Func{System.Int32,`0,System.Nullable{`0}})
+  name: ForEach(Func<Int32, TComponent1, Nullable<TComponent1>>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_1_ForEach_Func_System_Int32__0_System_Nullable__0___
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`1.ForEach(Func{System.Int32,`0,System.Nullable{`0}})
+  name.vb: ForEach(Func(Of Int32, TComponent1, Nullable(Of TComponent1)))
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1>.ForEach(Func<System.Int32, TComponent1, System.Nullable<TComponent1>>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1).ForEach(Func(Of System.Int32, TComponent1, System.Nullable(Of TComponent1)))
+  nameWithType: IEntityGroup<TComponent1>.ForEach(Func<Int32, TComponent1, Nullable<TComponent1>>)
+  nameWithType.vb: IEntityGroup(Of TComponent1).ForEach(Func(Of Int32, TComponent1, Nullable(Of TComponent1)))
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`1.ForEach*
+  name: ForEach
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-1.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_1_ForEach_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`1.ForEach
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1>.ForEach
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1).ForEach
+  nameWithType: IEntityGroup<TComponent1>.ForEach
+  nameWithType.vb: IEntityGroup(Of TComponent1).ForEach
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`2
+  name: IEntityGroup<TComponent1, TComponent2>
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-2.html
+  commentId: T:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`2
+  name.vb: IEntityGroup(Of TComponent1, TComponent2)
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1, TComponent2>
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1, TComponent2)
+  nameWithType: IEntityGroup<TComponent1, TComponent2>
+  nameWithType.vb: IEntityGroup(Of TComponent1, TComponent2)
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`2.AddSystem(Hel.ECS.Systems.System.ISystem{`0,`1})
+  name: AddSystem(ISystem<TComponent1, TComponent2>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_2_AddSystem_Hel_ECS_Systems_System_ISystem__0__1__
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`2.AddSystem(Hel.ECS.Systems.System.ISystem{`0,`1})
+  name.vb: AddSystem(ISystem(Of TComponent1, TComponent2))
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1, TComponent2>.AddSystem(Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1, TComponent2).AddSystem(Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2))
+  nameWithType: IEntityGroup<TComponent1, TComponent2>.AddSystem(ISystem<TComponent1, TComponent2>)
+  nameWithType.vb: IEntityGroup(Of TComponent1, TComponent2).AddSystem(ISystem(Of TComponent1, TComponent2))
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`2.AddSystem*
+  name: AddSystem
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_2_AddSystem_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`2.AddSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1, TComponent2>.AddSystem
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1, TComponent2).AddSystem
+  nameWithType: IEntityGroup<TComponent1, TComponent2>.AddSystem
+  nameWithType.vb: IEntityGroup(Of TComponent1, TComponent2).AddSystem
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`2.ForEach(Func{System.Int32,`0,`1,System.Nullable{System.ValueTuple{System.Nullable{`0},System.Nullable{`1}}}})
+  name: ForEach(Func<Int32, TComponent1, TComponent2, Nullable<(Nullable<TComponent1>, Nullable<TComponent2>)>>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_2_ForEach_Func_System_Int32__0__1_System_Nullable_System_ValueTuple_System_Nullable__0__System_Nullable__1_____
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`2.ForEach(Func{System.Int32,`0,`1,System.Nullable{System.ValueTuple{System.Nullable{`0},System.Nullable{`1}}}})
+  name.vb: ForEach(Func(Of Int32, TComponent1, TComponent2, Nullable(Of (Nullable(Of TComponent1), Nullable(Of TComponent2)))))
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1, TComponent2>.ForEach(Func<System.Int32, TComponent1, TComponent2, System.Nullable<System.ValueTuple<System.Nullable<TComponent1>, System.Nullable<TComponent2>>>>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1, TComponent2).ForEach(Func(Of System.Int32, TComponent1, TComponent2, System.Nullable(Of System.ValueTuple(Of System.Nullable(Of TComponent1), System.Nullable(Of TComponent2)))))
+  nameWithType: IEntityGroup<TComponent1, TComponent2>.ForEach(Func<Int32, TComponent1, TComponent2, Nullable<(Nullable<TComponent1>, Nullable<TComponent2>)>>)
+  nameWithType.vb: IEntityGroup(Of TComponent1, TComponent2).ForEach(Func(Of Int32, TComponent1, TComponent2, Nullable(Of (Nullable(Of TComponent1), Nullable(Of TComponent2)))))
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`2.ForEach*
+  name: ForEach
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-2.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_2_ForEach_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`2.ForEach
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1, TComponent2>.ForEach
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1, TComponent2).ForEach
+  nameWithType: IEntityGroup<TComponent1, TComponent2>.ForEach
+  nameWithType.vb: IEntityGroup(Of TComponent1, TComponent2).ForEach
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`3
+  name: IEntityGroup<TComponent1, TComponent2, TComponent3>
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-3.html
+  commentId: T:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`3
+  name.vb: IEntityGroup(Of TComponent1, TComponent2, TComponent3)
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1, TComponent2, TComponent3>
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1, TComponent2, TComponent3)
+  nameWithType: IEntityGroup<TComponent1, TComponent2, TComponent3>
+  nameWithType.vb: IEntityGroup(Of TComponent1, TComponent2, TComponent3)
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`3.AddSystem(Hel.ECS.Systems.System.ISystem{`0,`1,`2})
+  name: AddSystem(ISystem<TComponent1, TComponent2, TComponent3>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_3_AddSystem_Hel_ECS_Systems_System_ISystem__0__1__2__
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`3.AddSystem(Hel.ECS.Systems.System.ISystem{`0,`1,`2})
+  name.vb: AddSystem(ISystem(Of TComponent1, TComponent2, TComponent3))
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1, TComponent2, TComponent3>.AddSystem(Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2, TComponent3>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystem(Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2, TComponent3))
+  nameWithType: IEntityGroup<TComponent1, TComponent2, TComponent3>.AddSystem(ISystem<TComponent1, TComponent2, TComponent3>)
+  nameWithType.vb: IEntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystem(ISystem(Of TComponent1, TComponent2, TComponent3))
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`3.AddSystem*
+  name: AddSystem
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_3_AddSystem_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`3.AddSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1, TComponent2, TComponent3>.AddSystem
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystem
+  nameWithType: IEntityGroup<TComponent1, TComponent2, TComponent3>.AddSystem
+  nameWithType.vb: IEntityGroup(Of TComponent1, TComponent2, TComponent3).AddSystem
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`3.ForEach(Func{System.Int32,`0,`1,`2,System.Nullable{System.ValueTuple{System.Nullable{`0},System.Nullable{`1},System.Nullable{`2}}}})
+  name: ForEach(Func<Int32, TComponent1, TComponent2, TComponent3, Nullable<(Nullable<TComponent1>, Nullable<TComponent2>, Nullable<TComponent3>)>>)
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_3_ForEach_Func_System_Int32__0__1__2_System_Nullable_System_ValueTuple_System_Nullable__0__System_Nullable__1__System_Nullable__2_____
+  commentId: M:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`3.ForEach(Func{System.Int32,`0,`1,`2,System.Nullable{System.ValueTuple{System.Nullable{`0},System.Nullable{`1},System.Nullable{`2}}}})
+  name.vb: ForEach(Func(Of Int32, TComponent1, TComponent2, TComponent3, Nullable(Of (Nullable(Of TComponent1), Nullable(Of TComponent2), Nullable(Of TComponent3)))))
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1, TComponent2, TComponent3>.ForEach(Func<System.Int32, TComponent1, TComponent2, TComponent3, System.Nullable<System.ValueTuple<System.Nullable<TComponent1>, System.Nullable<TComponent2>, System.Nullable<TComponent3>>>>)
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1, TComponent2, TComponent3).ForEach(Func(Of System.Int32, TComponent1, TComponent2, TComponent3, System.Nullable(Of System.ValueTuple(Of System.Nullable(Of TComponent1), System.Nullable(Of TComponent2), System.Nullable(Of TComponent3)))))
+  nameWithType: IEntityGroup<TComponent1, TComponent2, TComponent3>.ForEach(Func<Int32, TComponent1, TComponent2, TComponent3, Nullable<(Nullable<TComponent1>, Nullable<TComponent2>, Nullable<TComponent3>)>>)
+  nameWithType.vb: IEntityGroup(Of TComponent1, TComponent2, TComponent3).ForEach(Func(Of Int32, TComponent1, TComponent2, TComponent3, Nullable(Of (Nullable(Of TComponent1), Nullable(Of TComponent2), Nullable(Of TComponent3)))))
+- uid: Hel.ECS.Entities.Matcher.Groups.IEntityGroup`3.ForEach*
+  name: ForEach
+  href: hel-api/Hel.ECS.Entities.Matcher.Groups.IEntityGroup-3.html#Hel_ECS_Entities_Matcher_Groups_IEntityGroup_3_ForEach_
+  commentId: Overload:Hel.ECS.Entities.Matcher.Groups.IEntityGroup`3.ForEach
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Matcher.Groups.IEntityGroup<TComponent1, TComponent2, TComponent3>.ForEach
+  fullName.vb: Hel.ECS.Entities.Matcher.Groups.IEntityGroup(Of TComponent1, TComponent2, TComponent3).ForEach
+  nameWithType: IEntityGroup<TComponent1, TComponent2, TComponent3>.ForEach
+  nameWithType.vb: IEntityGroup(Of TComponent1, TComponent2, TComponent3).ForEach
+- uid: Hel.ECS.Entities.Models
+  name: Hel.ECS.Entities.Models
+  href: hel-api/Hel.ECS.Entities.Models.html
+  commentId: N:Hel.ECS.Entities.Models
+  fullName: Hel.ECS.Entities.Models
+  nameWithType: Hel.ECS.Entities.Models
+- uid: Hel.ECS.Entities.Models.Entity
+  name: Entity
+  href: hel-api/Hel.ECS.Entities.Models.Entity.html
+  commentId: T:Hel.ECS.Entities.Models.Entity
+  fullName: Hel.ECS.Entities.Models.Entity
+  nameWithType: Entity
+- uid: Hel.ECS.Entities.Models.Entity.#ctor(System.String,Hel.ECS.Components.Model.IComponent[])
+  name: Entity(String, IComponent[])
+  href: hel-api/Hel.ECS.Entities.Models.Entity.html#Hel_ECS_Entities_Models_Entity__ctor_System_String_Hel_ECS_Components_Model_IComponent___
+  commentId: M:Hel.ECS.Entities.Models.Entity.#ctor(System.String,Hel.ECS.Components.Model.IComponent[])
+  name.vb: Entity(String, IComponent())
+  fullName: Hel.ECS.Entities.Models.Entity.Entity(System.String, Hel.ECS.Components.Model.IComponent[])
+  fullName.vb: Hel.ECS.Entities.Models.Entity.Entity(System.String, Hel.ECS.Components.Model.IComponent())
+  nameWithType: Entity.Entity(String, IComponent[])
+  nameWithType.vb: Entity.Entity(String, IComponent())
+- uid: Hel.ECS.Entities.Models.Entity.#ctor*
+  name: Entity
+  href: hel-api/Hel.ECS.Entities.Models.Entity.html#Hel_ECS_Entities_Models_Entity__ctor_
+  commentId: Overload:Hel.ECS.Entities.Models.Entity.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Models.Entity.Entity
+  nameWithType: Entity.Entity
+- uid: Hel.ECS.Entities.Models.Entity.Components
+  name: Components
+  href: hel-api/Hel.ECS.Entities.Models.Entity.html#Hel_ECS_Entities_Models_Entity_Components
+  commentId: P:Hel.ECS.Entities.Models.Entity.Components
+  fullName: Hel.ECS.Entities.Models.Entity.Components
+  nameWithType: Entity.Components
+- uid: Hel.ECS.Entities.Models.Entity.Components*
+  name: Components
+  href: hel-api/Hel.ECS.Entities.Models.Entity.html#Hel_ECS_Entities_Models_Entity_Components_
+  commentId: Overload:Hel.ECS.Entities.Models.Entity.Components
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Models.Entity.Components
+  nameWithType: Entity.Components
+- uid: Hel.ECS.Entities.Models.Entity.Name
+  name: Name
+  href: hel-api/Hel.ECS.Entities.Models.Entity.html#Hel_ECS_Entities_Models_Entity_Name
+  commentId: P:Hel.ECS.Entities.Models.Entity.Name
+  fullName: Hel.ECS.Entities.Models.Entity.Name
+  nameWithType: Entity.Name
+- uid: Hel.ECS.Entities.Models.Entity.Name*
+  name: Name
+  href: hel-api/Hel.ECS.Entities.Models.Entity.html#Hel_ECS_Entities_Models_Entity_Name_
+  commentId: Overload:Hel.ECS.Entities.Models.Entity.Name
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Models.Entity.Name
+  nameWithType: Entity.Name
+- uid: Hel.ECS.Entities.Models.IEntity
+  name: IEntity
+  href: hel-api/Hel.ECS.Entities.Models.IEntity.html
+  commentId: T:Hel.ECS.Entities.Models.IEntity
+  fullName: Hel.ECS.Entities.Models.IEntity
+  nameWithType: IEntity
+- uid: Hel.ECS.Entities.Models.IEntity.Components
+  name: Components
+  href: hel-api/Hel.ECS.Entities.Models.IEntity.html#Hel_ECS_Entities_Models_IEntity_Components
+  commentId: P:Hel.ECS.Entities.Models.IEntity.Components
+  fullName: Hel.ECS.Entities.Models.IEntity.Components
+  nameWithType: IEntity.Components
+- uid: Hel.ECS.Entities.Models.IEntity.Components*
+  name: Components
+  href: hel-api/Hel.ECS.Entities.Models.IEntity.html#Hel_ECS_Entities_Models_IEntity_Components_
+  commentId: Overload:Hel.ECS.Entities.Models.IEntity.Components
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Models.IEntity.Components
+  nameWithType: IEntity.Components
+- uid: Hel.ECS.Entities.Models.IEntity.Name
+  name: Name
+  href: hel-api/Hel.ECS.Entities.Models.IEntity.html#Hel_ECS_Entities_Models_IEntity_Name
+  commentId: P:Hel.ECS.Entities.Models.IEntity.Name
+  fullName: Hel.ECS.Entities.Models.IEntity.Name
+  nameWithType: IEntity.Name
+- uid: Hel.ECS.Entities.Models.IEntity.Name*
+  name: Name
+  href: hel-api/Hel.ECS.Entities.Models.IEntity.html#Hel_ECS_Entities_Models_IEntity_Name_
+  commentId: Overload:Hel.ECS.Entities.Models.IEntity.Name
+  isSpec: "True"
+  fullName: Hel.ECS.Entities.Models.IEntity.Name
+  nameWithType: IEntity.Name
+- uid: Hel.ECS.Exceptions
+  name: Hel.ECS.Exceptions
+  href: hel-api/Hel.ECS.Exceptions.html
+  commentId: N:Hel.ECS.Exceptions
+  fullName: Hel.ECS.Exceptions
+  nameWithType: Hel.ECS.Exceptions
+- uid: Hel.ECS.Exceptions.InvalidComponentException
+  name: InvalidComponentException
+  href: hel-api/Hel.ECS.Exceptions.InvalidComponentException.html
+  commentId: T:Hel.ECS.Exceptions.InvalidComponentException
+  fullName: Hel.ECS.Exceptions.InvalidComponentException
+  nameWithType: InvalidComponentException
+- uid: Hel.ECS.Exceptions.InvalidComponentException.#ctor
+  name: InvalidComponentException()
+  href: hel-api/Hel.ECS.Exceptions.InvalidComponentException.html#Hel_ECS_Exceptions_InvalidComponentException__ctor
+  commentId: M:Hel.ECS.Exceptions.InvalidComponentException.#ctor
+  fullName: Hel.ECS.Exceptions.InvalidComponentException.InvalidComponentException()
+  nameWithType: InvalidComponentException.InvalidComponentException()
+- uid: Hel.ECS.Exceptions.InvalidComponentException.#ctor(System.String)
+  name: InvalidComponentException(String)
+  href: hel-api/Hel.ECS.Exceptions.InvalidComponentException.html#Hel_ECS_Exceptions_InvalidComponentException__ctor_System_String_
+  commentId: M:Hel.ECS.Exceptions.InvalidComponentException.#ctor(System.String)
+  fullName: Hel.ECS.Exceptions.InvalidComponentException.InvalidComponentException(System.String)
+  nameWithType: InvalidComponentException.InvalidComponentException(String)
+- uid: Hel.ECS.Exceptions.InvalidComponentException.#ctor*
+  name: InvalidComponentException
+  href: hel-api/Hel.ECS.Exceptions.InvalidComponentException.html#Hel_ECS_Exceptions_InvalidComponentException__ctor_
+  commentId: Overload:Hel.ECS.Exceptions.InvalidComponentException.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Exceptions.InvalidComponentException.InvalidComponentException
+  nameWithType: InvalidComponentException.InvalidComponentException
+- uid: Hel.ECS.Exceptions.InvalidEntityException
+  name: InvalidEntityException
+  href: hel-api/Hel.ECS.Exceptions.InvalidEntityException.html
+  commentId: T:Hel.ECS.Exceptions.InvalidEntityException
+  fullName: Hel.ECS.Exceptions.InvalidEntityException
+  nameWithType: InvalidEntityException
+- uid: Hel.ECS.Exceptions.InvalidEntityException.#ctor
+  name: InvalidEntityException()
+  href: hel-api/Hel.ECS.Exceptions.InvalidEntityException.html#Hel_ECS_Exceptions_InvalidEntityException__ctor
+  commentId: M:Hel.ECS.Exceptions.InvalidEntityException.#ctor
+  fullName: Hel.ECS.Exceptions.InvalidEntityException.InvalidEntityException()
+  nameWithType: InvalidEntityException.InvalidEntityException()
+- uid: Hel.ECS.Exceptions.InvalidEntityException.#ctor(System.String)
+  name: InvalidEntityException(String)
+  href: hel-api/Hel.ECS.Exceptions.InvalidEntityException.html#Hel_ECS_Exceptions_InvalidEntityException__ctor_System_String_
+  commentId: M:Hel.ECS.Exceptions.InvalidEntityException.#ctor(System.String)
+  fullName: Hel.ECS.Exceptions.InvalidEntityException.InvalidEntityException(System.String)
+  nameWithType: InvalidEntityException.InvalidEntityException(String)
+- uid: Hel.ECS.Exceptions.InvalidEntityException.#ctor*
+  name: InvalidEntityException
+  href: hel-api/Hel.ECS.Exceptions.InvalidEntityException.html#Hel_ECS_Exceptions_InvalidEntityException__ctor_
+  commentId: Overload:Hel.ECS.Exceptions.InvalidEntityException.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Exceptions.InvalidEntityException.InvalidEntityException
+  nameWithType: InvalidEntityException.InvalidEntityException
+- uid: Hel.ECS.Exceptions.InvalidEntityGroupException
+  name: InvalidEntityGroupException
+  href: hel-api/Hel.ECS.Exceptions.InvalidEntityGroupException.html
+  commentId: T:Hel.ECS.Exceptions.InvalidEntityGroupException
+  fullName: Hel.ECS.Exceptions.InvalidEntityGroupException
+  nameWithType: InvalidEntityGroupException
+- uid: Hel.ECS.Exceptions.InvalidEntityGroupException.#ctor
+  name: InvalidEntityGroupException()
+  href: hel-api/Hel.ECS.Exceptions.InvalidEntityGroupException.html#Hel_ECS_Exceptions_InvalidEntityGroupException__ctor
+  commentId: M:Hel.ECS.Exceptions.InvalidEntityGroupException.#ctor
+  fullName: Hel.ECS.Exceptions.InvalidEntityGroupException.InvalidEntityGroupException()
+  nameWithType: InvalidEntityGroupException.InvalidEntityGroupException()
+- uid: Hel.ECS.Exceptions.InvalidEntityGroupException.#ctor(System.String)
+  name: InvalidEntityGroupException(String)
+  href: hel-api/Hel.ECS.Exceptions.InvalidEntityGroupException.html#Hel_ECS_Exceptions_InvalidEntityGroupException__ctor_System_String_
+  commentId: M:Hel.ECS.Exceptions.InvalidEntityGroupException.#ctor(System.String)
+  fullName: Hel.ECS.Exceptions.InvalidEntityGroupException.InvalidEntityGroupException(System.String)
+  nameWithType: InvalidEntityGroupException.InvalidEntityGroupException(String)
+- uid: Hel.ECS.Exceptions.InvalidEntityGroupException.#ctor*
+  name: InvalidEntityGroupException
+  href: hel-api/Hel.ECS.Exceptions.InvalidEntityGroupException.html#Hel_ECS_Exceptions_InvalidEntityGroupException__ctor_
+  commentId: Overload:Hel.ECS.Exceptions.InvalidEntityGroupException.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Exceptions.InvalidEntityGroupException.InvalidEntityGroupException
+  nameWithType: InvalidEntityGroupException.InvalidEntityGroupException
+- uid: Hel.ECS.Exceptions.InvalidWorldException
+  name: InvalidWorldException
+  href: hel-api/Hel.ECS.Exceptions.InvalidWorldException.html
+  commentId: T:Hel.ECS.Exceptions.InvalidWorldException
+  fullName: Hel.ECS.Exceptions.InvalidWorldException
+  nameWithType: InvalidWorldException
+- uid: Hel.ECS.Exceptions.InvalidWorldException.#ctor
+  name: InvalidWorldException()
+  href: hel-api/Hel.ECS.Exceptions.InvalidWorldException.html#Hel_ECS_Exceptions_InvalidWorldException__ctor
+  commentId: M:Hel.ECS.Exceptions.InvalidWorldException.#ctor
+  fullName: Hel.ECS.Exceptions.InvalidWorldException.InvalidWorldException()
+  nameWithType: InvalidWorldException.InvalidWorldException()
+- uid: Hel.ECS.Exceptions.InvalidWorldException.#ctor(System.String)
+  name: InvalidWorldException(String)
+  href: hel-api/Hel.ECS.Exceptions.InvalidWorldException.html#Hel_ECS_Exceptions_InvalidWorldException__ctor_System_String_
+  commentId: M:Hel.ECS.Exceptions.InvalidWorldException.#ctor(System.String)
+  fullName: Hel.ECS.Exceptions.InvalidWorldException.InvalidWorldException(System.String)
+  nameWithType: InvalidWorldException.InvalidWorldException(String)
+- uid: Hel.ECS.Exceptions.InvalidWorldException.#ctor*
+  name: InvalidWorldException
+  href: hel-api/Hel.ECS.Exceptions.InvalidWorldException.html#Hel_ECS_Exceptions_InvalidWorldException__ctor_
+  commentId: Overload:Hel.ECS.Exceptions.InvalidWorldException.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Exceptions.InvalidWorldException.InvalidWorldException
+  nameWithType: InvalidWorldException.InvalidWorldException
+- uid: Hel.ECS.Systems.ExampleSystems
+  name: Hel.ECS.Systems.ExampleSystems
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.html
+  commentId: N:Hel.ECS.Systems.ExampleSystems
+  fullName: Hel.ECS.Systems.ExampleSystems
+  nameWithType: Hel.ECS.Systems.ExampleSystems
+- uid: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled
+  name: TestCoupledSystemMovementCoupled
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled.html
+  commentId: T:Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled
+  fullName: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled
+  nameWithType: TestCoupledSystemMovementCoupled
+- uid: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled.Update(System.Single,Hel.ECS.Entities.Matcher.EntityMatcher)
+  name: Update(Single, EntityMatcher)
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled.html#Hel_ECS_Systems_ExampleSystems_TestCoupledSystemMovementCoupled_Update_System_Single_Hel_ECS_Entities_Matcher_EntityMatcher_
+  commentId: M:Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled.Update(System.Single,Hel.ECS.Entities.Matcher.EntityMatcher)
+  fullName: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled.Update(System.Single, Hel.ECS.Entities.Matcher.EntityMatcher)
+  nameWithType: TestCoupledSystemMovementCoupled.Update(Single, EntityMatcher)
+- uid: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled.Update*
+  name: Update
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled.html#Hel_ECS_Systems_ExampleSystems_TestCoupledSystemMovementCoupled_Update_
+  commentId: Overload:Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled.Update
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementCoupled.Update
+  nameWithType: TestCoupledSystemMovementCoupled.Update
+- uid: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled
+  name: TestCoupledSystemMovementIncreaseCoupled
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled.html
+  commentId: T:Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled
+  fullName: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled
+  nameWithType: TestCoupledSystemMovementIncreaseCoupled
+- uid: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled.Update(System.Single,Hel.ECS.Entities.Matcher.EntityMatcher)
+  name: Update(Single, EntityMatcher)
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled.html#Hel_ECS_Systems_ExampleSystems_TestCoupledSystemMovementIncreaseCoupled_Update_System_Single_Hel_ECS_Entities_Matcher_EntityMatcher_
+  commentId: M:Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled.Update(System.Single,Hel.ECS.Entities.Matcher.EntityMatcher)
+  fullName: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled.Update(System.Single, Hel.ECS.Entities.Matcher.EntityMatcher)
+  nameWithType: TestCoupledSystemMovementIncreaseCoupled.Update(Single, EntityMatcher)
+- uid: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled.Update*
+  name: Update
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled.html#Hel_ECS_Systems_ExampleSystems_TestCoupledSystemMovementIncreaseCoupled_Update_
+  commentId: Overload:Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled.Update
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemMovementIncreaseCoupled.Update
+  nameWithType: TestCoupledSystemMovementIncreaseCoupled.Update
+- uid: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender
+  name: TestCoupledSystemRender
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender.html
+  commentId: T:Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender
+  fullName: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender
+  nameWithType: TestCoupledSystemRender
+- uid: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender.Draw(System.Single,Hel.ECS.Entities.Matcher.EntityMatcher)
+  name: Draw(Single, EntityMatcher)
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender.html#Hel_ECS_Systems_ExampleSystems_TestCoupledSystemRender_Draw_System_Single_Hel_ECS_Entities_Matcher_EntityMatcher_
+  commentId: M:Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender.Draw(System.Single,Hel.ECS.Entities.Matcher.EntityMatcher)
+  fullName: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender.Draw(System.Single, Hel.ECS.Entities.Matcher.EntityMatcher)
+  nameWithType: TestCoupledSystemRender.Draw(Single, EntityMatcher)
+- uid: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender.Draw*
+  name: Draw
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender.html#Hel_ECS_Systems_ExampleSystems_TestCoupledSystemRender_Draw_
+  commentId: Overload:Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender.Draw
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.ExampleSystems.TestCoupledSystemRender.Draw
+  nameWithType: TestCoupledSystemRender.Draw
+- uid: Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled
+  name: TestSystemMovementDecoupled
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled.html
+  commentId: T:Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled
+  fullName: Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled
+  nameWithType: TestSystemMovementDecoupled
+- uid: Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled.RunSystem(System.Single,System.Int32,Hel.ECS.Components.Examples.MovementExample,Hel.ECS.Components.Examples.TransformExample)
+  name: RunSystem(Single, Int32, MovementExample, TransformExample)
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled.html#Hel_ECS_Systems_ExampleSystems_TestSystemMovementDecoupled_RunSystem_System_Single_System_Int32_Hel_ECS_Components_Examples_MovementExample_Hel_ECS_Components_Examples_TransformExample_
+  commentId: M:Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled.RunSystem(System.Single,System.Int32,Hel.ECS.Components.Examples.MovementExample,Hel.ECS.Components.Examples.TransformExample)
+  fullName: Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled.RunSystem(System.Single, System.Int32, Hel.ECS.Components.Examples.MovementExample, Hel.ECS.Components.Examples.TransformExample)
+  nameWithType: TestSystemMovementDecoupled.RunSystem(Single, Int32, MovementExample, TransformExample)
+- uid: Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled.RunSystem*
+  name: RunSystem
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled.html#Hel_ECS_Systems_ExampleSystems_TestSystemMovementDecoupled_RunSystem_
+  commentId: Overload:Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled.RunSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.ExampleSystems.TestSystemMovementDecoupled.RunSystem
+  nameWithType: TestSystemMovementDecoupled.RunSystem
+- uid: Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled
+  name: TestSystemMovementIncreaseDecoupled
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled.html
+  commentId: T:Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled
+  fullName: Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled
+  nameWithType: TestSystemMovementIncreaseDecoupled
+- uid: Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled.RunSystem(System.Single,System.Int32,Hel.ECS.Components.Examples.TransformExample,Hel.ECS.Components.Examples.MovementExample)
+  name: RunSystem(Single, Int32, TransformExample, MovementExample)
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled.html#Hel_ECS_Systems_ExampleSystems_TestSystemMovementIncreaseDecoupled_RunSystem_System_Single_System_Int32_Hel_ECS_Components_Examples_TransformExample_Hel_ECS_Components_Examples_MovementExample_
+  commentId: M:Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled.RunSystem(System.Single,System.Int32,Hel.ECS.Components.Examples.TransformExample,Hel.ECS.Components.Examples.MovementExample)
+  fullName: Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled.RunSystem(System.Single, System.Int32, Hel.ECS.Components.Examples.TransformExample, Hel.ECS.Components.Examples.MovementExample)
+  nameWithType: TestSystemMovementIncreaseDecoupled.RunSystem(Single, Int32, TransformExample, MovementExample)
+- uid: Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled.RunSystem*
+  name: RunSystem
+  href: hel-api/Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled.html#Hel_ECS_Systems_ExampleSystems_TestSystemMovementIncreaseDecoupled_RunSystem_
+  commentId: Overload:Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled.RunSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.ExampleSystems.TestSystemMovementIncreaseDecoupled.RunSystem
+  nameWithType: TestSystemMovementIncreaseDecoupled.RunSystem
+- uid: Hel.ECS.Systems.Logic
+  name: Hel.ECS.Systems.Logic
+  href: hel-api/Hel.ECS.Systems.Logic.html
+  commentId: N:Hel.ECS.Systems.Logic
+  fullName: Hel.ECS.Systems.Logic
+  nameWithType: Hel.ECS.Systems.Logic
+- uid: Hel.ECS.Systems.Logic.SystemManager
+  name: SystemManager
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html
+  commentId: T:Hel.ECS.Systems.Logic.SystemManager
+  fullName: Hel.ECS.Systems.Logic.SystemManager
+  nameWithType: SystemManager
+- uid: Hel.ECS.Systems.Logic.SystemManager.#ctor(Hel.ECS.World.World)
+  name: SystemManager(World)
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html#Hel_ECS_Systems_Logic_SystemManager__ctor_Hel_ECS_World_World_
+  commentId: M:Hel.ECS.Systems.Logic.SystemManager.#ctor(Hel.ECS.World.World)
+  fullName: Hel.ECS.Systems.Logic.SystemManager.SystemManager(Hel.ECS.World.World)
+  nameWithType: SystemManager.SystemManager(World)
+- uid: Hel.ECS.Systems.Logic.SystemManager.#ctor*
+  name: SystemManager
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html#Hel_ECS_Systems_Logic_SystemManager__ctor_
+  commentId: Overload:Hel.ECS.Systems.Logic.SystemManager.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.Logic.SystemManager.SystemManager
+  nameWithType: SystemManager.SystemManager
+- uid: Hel.ECS.Systems.Logic.SystemManager.AddSystem*
+  name: AddSystem
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html#Hel_ECS_Systems_Logic_SystemManager_AddSystem_
+  commentId: Overload:Hel.ECS.Systems.Logic.SystemManager.AddSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.Logic.SystemManager.AddSystem
+  nameWithType: SystemManager.AddSystem
+- uid: Hel.ECS.Systems.Logic.SystemManager.AddSystem``1(System.Object[])
+  name: AddSystem<T>(Object[])
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html#Hel_ECS_Systems_Logic_SystemManager_AddSystem__1_System_Object___
+  commentId: M:Hel.ECS.Systems.Logic.SystemManager.AddSystem``1(System.Object[])
+  name.vb: AddSystem(Of T)(Object())
+  fullName: Hel.ECS.Systems.Logic.SystemManager.AddSystem<T>(System.Object[])
+  fullName.vb: Hel.ECS.Systems.Logic.SystemManager.AddSystem(Of T)(System.Object())
+  nameWithType: SystemManager.AddSystem<T>(Object[])
+  nameWithType.vb: SystemManager.AddSystem(Of T)(Object())
+- uid: Hel.ECS.Systems.Logic.SystemManager.Draw(System.Single)
+  name: Draw(Single)
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html#Hel_ECS_Systems_Logic_SystemManager_Draw_System_Single_
+  commentId: M:Hel.ECS.Systems.Logic.SystemManager.Draw(System.Single)
+  fullName: Hel.ECS.Systems.Logic.SystemManager.Draw(System.Single)
+  nameWithType: SystemManager.Draw(Single)
+- uid: Hel.ECS.Systems.Logic.SystemManager.Draw*
+  name: Draw
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html#Hel_ECS_Systems_Logic_SystemManager_Draw_
+  commentId: Overload:Hel.ECS.Systems.Logic.SystemManager.Draw
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.Logic.SystemManager.Draw
+  nameWithType: SystemManager.Draw
+- uid: Hel.ECS.Systems.Logic.SystemManager.Update(System.Single)
+  name: Update(Single)
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html#Hel_ECS_Systems_Logic_SystemManager_Update_System_Single_
+  commentId: M:Hel.ECS.Systems.Logic.SystemManager.Update(System.Single)
+  fullName: Hel.ECS.Systems.Logic.SystemManager.Update(System.Single)
+  nameWithType: SystemManager.Update(Single)
+- uid: Hel.ECS.Systems.Logic.SystemManager.Update*
+  name: Update
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html#Hel_ECS_Systems_Logic_SystemManager_Update_
+  commentId: Overload:Hel.ECS.Systems.Logic.SystemManager.Update
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.Logic.SystemManager.Update
+  nameWithType: SystemManager.Update
+- uid: Hel.ECS.Systems.Logic.SystemManager.World
+  name: World
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html#Hel_ECS_Systems_Logic_SystemManager_World
+  commentId: P:Hel.ECS.Systems.Logic.SystemManager.World
+  fullName: Hel.ECS.Systems.Logic.SystemManager.World
+  nameWithType: SystemManager.World
+- uid: Hel.ECS.Systems.Logic.SystemManager.World*
+  name: World
+  href: hel-api/Hel.ECS.Systems.Logic.SystemManager.html#Hel_ECS_Systems_Logic_SystemManager_World_
+  commentId: Overload:Hel.ECS.Systems.Logic.SystemManager.World
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.Logic.SystemManager.World
+  nameWithType: SystemManager.World
+- uid: Hel.ECS.Systems.System
+  name: Hel.ECS.Systems.System
+  href: hel-api/Hel.ECS.Systems.System.html
+  commentId: N:Hel.ECS.Systems.System
+  fullName: Hel.ECS.Systems.System
+  nameWithType: Hel.ECS.Systems.System
+- uid: Hel.ECS.Systems.System.IDrawSystem
+  name: IDrawSystem
+  href: hel-api/Hel.ECS.Systems.System.IDrawSystem.html
+  commentId: T:Hel.ECS.Systems.System.IDrawSystem
+  fullName: Hel.ECS.Systems.System.IDrawSystem
+  nameWithType: IDrawSystem
+- uid: Hel.ECS.Systems.System.IDrawSystem.Draw(System.Single,Hel.ECS.Entities.Matcher.EntityMatcher)
+  name: Draw(Single, EntityMatcher)
+  href: hel-api/Hel.ECS.Systems.System.IDrawSystem.html#Hel_ECS_Systems_System_IDrawSystem_Draw_System_Single_Hel_ECS_Entities_Matcher_EntityMatcher_
+  commentId: M:Hel.ECS.Systems.System.IDrawSystem.Draw(System.Single,Hel.ECS.Entities.Matcher.EntityMatcher)
+  fullName: Hel.ECS.Systems.System.IDrawSystem.Draw(System.Single, Hel.ECS.Entities.Matcher.EntityMatcher)
+  nameWithType: IDrawSystem.Draw(Single, EntityMatcher)
+- uid: Hel.ECS.Systems.System.IDrawSystem.Draw*
+  name: Draw
+  href: hel-api/Hel.ECS.Systems.System.IDrawSystem.html#Hel_ECS_Systems_System_IDrawSystem_Draw_
+  commentId: Overload:Hel.ECS.Systems.System.IDrawSystem.Draw
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.System.IDrawSystem.Draw
+  nameWithType: IDrawSystem.Draw
+- uid: Hel.ECS.Systems.System.ISystem`1
+  name: ISystem<TComponent1>
+  href: hel-api/Hel.ECS.Systems.System.ISystem-1.html
+  commentId: T:Hel.ECS.Systems.System.ISystem`1
+  name.vb: ISystem(Of TComponent1)
+  fullName: Hel.ECS.Systems.System.ISystem<TComponent1>
+  fullName.vb: Hel.ECS.Systems.System.ISystem(Of TComponent1)
+  nameWithType: ISystem<TComponent1>
+  nameWithType.vb: ISystem(Of TComponent1)
+- uid: Hel.ECS.Systems.System.ISystem`1.RunSystem(System.Single,System.Int32,`0)
+  name: RunSystem(Single, Int32, TComponent1)
+  href: hel-api/Hel.ECS.Systems.System.ISystem-1.html#Hel_ECS_Systems_System_ISystem_1_RunSystem_System_Single_System_Int32__0_
+  commentId: M:Hel.ECS.Systems.System.ISystem`1.RunSystem(System.Single,System.Int32,`0)
+  fullName: Hel.ECS.Systems.System.ISystem<TComponent1>.RunSystem(System.Single, System.Int32, TComponent1)
+  fullName.vb: Hel.ECS.Systems.System.ISystem(Of TComponent1).RunSystem(System.Single, System.Int32, TComponent1)
+  nameWithType: ISystem<TComponent1>.RunSystem(Single, Int32, TComponent1)
+  nameWithType.vb: ISystem(Of TComponent1).RunSystem(Single, Int32, TComponent1)
+- uid: Hel.ECS.Systems.System.ISystem`1.RunSystem*
+  name: RunSystem
+  href: hel-api/Hel.ECS.Systems.System.ISystem-1.html#Hel_ECS_Systems_System_ISystem_1_RunSystem_
+  commentId: Overload:Hel.ECS.Systems.System.ISystem`1.RunSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.System.ISystem<TComponent1>.RunSystem
+  fullName.vb: Hel.ECS.Systems.System.ISystem(Of TComponent1).RunSystem
+  nameWithType: ISystem<TComponent1>.RunSystem
+  nameWithType.vb: ISystem(Of TComponent1).RunSystem
+- uid: Hel.ECS.Systems.System.ISystem`2
+  name: ISystem<TComponent1, TComponent2>
+  href: hel-api/Hel.ECS.Systems.System.ISystem-2.html
+  commentId: T:Hel.ECS.Systems.System.ISystem`2
+  name.vb: ISystem(Of TComponent1, TComponent2)
+  fullName: Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2>
+  fullName.vb: Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2)
+  nameWithType: ISystem<TComponent1, TComponent2>
+  nameWithType.vb: ISystem(Of TComponent1, TComponent2)
+- uid: Hel.ECS.Systems.System.ISystem`2.RunSystem(System.Single,System.Int32,`0,`1)
+  name: RunSystem(Single, Int32, TComponent1, TComponent2)
+  href: hel-api/Hel.ECS.Systems.System.ISystem-2.html#Hel_ECS_Systems_System_ISystem_2_RunSystem_System_Single_System_Int32__0__1_
+  commentId: M:Hel.ECS.Systems.System.ISystem`2.RunSystem(System.Single,System.Int32,`0,`1)
+  fullName: Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2>.RunSystem(System.Single, System.Int32, TComponent1, TComponent2)
+  fullName.vb: Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2).RunSystem(System.Single, System.Int32, TComponent1, TComponent2)
+  nameWithType: ISystem<TComponent1, TComponent2>.RunSystem(Single, Int32, TComponent1, TComponent2)
+  nameWithType.vb: ISystem(Of TComponent1, TComponent2).RunSystem(Single, Int32, TComponent1, TComponent2)
+- uid: Hel.ECS.Systems.System.ISystem`2.RunSystem*
+  name: RunSystem
+  href: hel-api/Hel.ECS.Systems.System.ISystem-2.html#Hel_ECS_Systems_System_ISystem_2_RunSystem_
+  commentId: Overload:Hel.ECS.Systems.System.ISystem`2.RunSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2>.RunSystem
+  fullName.vb: Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2).RunSystem
+  nameWithType: ISystem<TComponent1, TComponent2>.RunSystem
+  nameWithType.vb: ISystem(Of TComponent1, TComponent2).RunSystem
+- uid: Hel.ECS.Systems.System.ISystem`3
+  name: ISystem<TComponent1, TComponent2, TComponent3>
+  href: hel-api/Hel.ECS.Systems.System.ISystem-3.html
+  commentId: T:Hel.ECS.Systems.System.ISystem`3
+  name.vb: ISystem(Of TComponent1, TComponent2, TComponent3)
+  fullName: Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2, TComponent3>
+  fullName.vb: Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2, TComponent3)
+  nameWithType: ISystem<TComponent1, TComponent2, TComponent3>
+  nameWithType.vb: ISystem(Of TComponent1, TComponent2, TComponent3)
+- uid: Hel.ECS.Systems.System.ISystem`3.RunSystem(System.Single,System.Int32,`0,`1,`2)
+  name: RunSystem(Single, Int32, TComponent1, TComponent2, TComponent3)
+  href: hel-api/Hel.ECS.Systems.System.ISystem-3.html#Hel_ECS_Systems_System_ISystem_3_RunSystem_System_Single_System_Int32__0__1__2_
+  commentId: M:Hel.ECS.Systems.System.ISystem`3.RunSystem(System.Single,System.Int32,`0,`1,`2)
+  fullName: Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2, TComponent3>.RunSystem(System.Single, System.Int32, TComponent1, TComponent2, TComponent3)
+  fullName.vb: Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2, TComponent3).RunSystem(System.Single, System.Int32, TComponent1, TComponent2, TComponent3)
+  nameWithType: ISystem<TComponent1, TComponent2, TComponent3>.RunSystem(Single, Int32, TComponent1, TComponent2, TComponent3)
+  nameWithType.vb: ISystem(Of TComponent1, TComponent2, TComponent3).RunSystem(Single, Int32, TComponent1, TComponent2, TComponent3)
+- uid: Hel.ECS.Systems.System.ISystem`3.RunSystem*
+  name: RunSystem
+  href: hel-api/Hel.ECS.Systems.System.ISystem-3.html#Hel_ECS_Systems_System_ISystem_3_RunSystem_
+  commentId: Overload:Hel.ECS.Systems.System.ISystem`3.RunSystem
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.System.ISystem<TComponent1, TComponent2, TComponent3>.RunSystem
+  fullName.vb: Hel.ECS.Systems.System.ISystem(Of TComponent1, TComponent2, TComponent3).RunSystem
+  nameWithType: ISystem<TComponent1, TComponent2, TComponent3>.RunSystem
+  nameWithType.vb: ISystem(Of TComponent1, TComponent2, TComponent3).RunSystem
+- uid: Hel.ECS.Systems.System.ISystemBase
+  name: ISystemBase
+  href: hel-api/Hel.ECS.Systems.System.ISystemBase.html
+  commentId: T:Hel.ECS.Systems.System.ISystemBase
+  fullName: Hel.ECS.Systems.System.ISystemBase
+  nameWithType: ISystemBase
+- uid: Hel.ECS.Systems.System.IUpdateSystem
+  name: IUpdateSystem
+  href: hel-api/Hel.ECS.Systems.System.IUpdateSystem.html
+  commentId: T:Hel.ECS.Systems.System.IUpdateSystem
+  fullName: Hel.ECS.Systems.System.IUpdateSystem
+  nameWithType: IUpdateSystem
+- uid: Hel.ECS.Systems.System.IUpdateSystem.Update(System.Single,Hel.ECS.Entities.Matcher.EntityMatcher)
+  name: Update(Single, EntityMatcher)
+  href: hel-api/Hel.ECS.Systems.System.IUpdateSystem.html#Hel_ECS_Systems_System_IUpdateSystem_Update_System_Single_Hel_ECS_Entities_Matcher_EntityMatcher_
+  commentId: M:Hel.ECS.Systems.System.IUpdateSystem.Update(System.Single,Hel.ECS.Entities.Matcher.EntityMatcher)
+  fullName: Hel.ECS.Systems.System.IUpdateSystem.Update(System.Single, Hel.ECS.Entities.Matcher.EntityMatcher)
+  nameWithType: IUpdateSystem.Update(Single, EntityMatcher)
+- uid: Hel.ECS.Systems.System.IUpdateSystem.Update*
+  name: Update
+  href: hel-api/Hel.ECS.Systems.System.IUpdateSystem.html#Hel_ECS_Systems_System_IUpdateSystem_Update_
+  commentId: Overload:Hel.ECS.Systems.System.IUpdateSystem.Update
+  isSpec: "True"
+  fullName: Hel.ECS.Systems.System.IUpdateSystem.Update
+  nameWithType: IUpdateSystem.Update
+- uid: Hel.ECS.World
+  name: Hel.ECS.World
+  href: hel-api/Hel.ECS.World.html
+  commentId: N:Hel.ECS.World
+  fullName: Hel.ECS.World
+  nameWithType: Hel.ECS.World
+- uid: Hel.ECS.World.World
+  name: World
+  href: hel-api/Hel.ECS.World.World.html
+  commentId: T:Hel.ECS.World.World
+  fullName: Hel.ECS.World.World
+  nameWithType: World
+- uid: Hel.ECS.World.World.#ctor(System.String)
+  name: World(String)
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World__ctor_System_String_
+  commentId: M:Hel.ECS.World.World.#ctor(System.String)
+  fullName: Hel.ECS.World.World.World(System.String)
+  nameWithType: World.World(String)
+- uid: Hel.ECS.World.World.#ctor*
+  name: World
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World__ctor_
+  commentId: Overload:Hel.ECS.World.World.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.World.World.World
+  nameWithType: World.World
+- uid: Hel.ECS.World.World.EntityManager
+  name: EntityManager
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World_EntityManager
+  commentId: P:Hel.ECS.World.World.EntityManager
+  fullName: Hel.ECS.World.World.EntityManager
+  nameWithType: World.EntityManager
+- uid: Hel.ECS.World.World.EntityManager*
+  name: EntityManager
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World_EntityManager_
+  commentId: Overload:Hel.ECS.World.World.EntityManager
+  isSpec: "True"
+  fullName: Hel.ECS.World.World.EntityManager
+  nameWithType: World.EntityManager
+- uid: Hel.ECS.World.World.EntityMatcher
+  name: EntityMatcher
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World_EntityMatcher
+  commentId: P:Hel.ECS.World.World.EntityMatcher
+  fullName: Hel.ECS.World.World.EntityMatcher
+  nameWithType: World.EntityMatcher
+- uid: Hel.ECS.World.World.EntityMatcher*
+  name: EntityMatcher
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World_EntityMatcher_
+  commentId: Overload:Hel.ECS.World.World.EntityMatcher
+  isSpec: "True"
+  fullName: Hel.ECS.World.World.EntityMatcher
+  nameWithType: World.EntityMatcher
+- uid: Hel.ECS.World.World.IsPrimary
+  name: IsPrimary
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World_IsPrimary
+  commentId: F:Hel.ECS.World.World.IsPrimary
+  fullName: Hel.ECS.World.World.IsPrimary
+  nameWithType: World.IsPrimary
+- uid: Hel.ECS.World.World.Name
+  name: Name
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World_Name
+  commentId: P:Hel.ECS.World.World.Name
+  fullName: Hel.ECS.World.World.Name
+  nameWithType: World.Name
+- uid: Hel.ECS.World.World.Name*
+  name: Name
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World_Name_
+  commentId: Overload:Hel.ECS.World.World.Name
+  isSpec: "True"
+  fullName: Hel.ECS.World.World.Name
+  nameWithType: World.Name
+- uid: Hel.ECS.World.World.SystemManager
+  name: SystemManager
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World_SystemManager
+  commentId: P:Hel.ECS.World.World.SystemManager
+  fullName: Hel.ECS.World.World.SystemManager
+  nameWithType: World.SystemManager
+- uid: Hel.ECS.World.World.SystemManager*
+  name: SystemManager
+  href: hel-api/Hel.ECS.World.World.html#Hel_ECS_World_World_SystemManager_
+  commentId: Overload:Hel.ECS.World.World.SystemManager
+  isSpec: "True"
+  fullName: Hel.ECS.World.World.SystemManager
+  nameWithType: World.SystemManager
+- uid: Hel.ECS.World.WorldManager
+  name: WorldManager
+  href: hel-api/Hel.ECS.World.WorldManager.html
+  commentId: T:Hel.ECS.World.WorldManager
+  fullName: Hel.ECS.World.WorldManager
+  nameWithType: WorldManager
+- uid: Hel.ECS.World.WorldManager.#ctor
+  name: WorldManager()
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager__ctor
+  commentId: M:Hel.ECS.World.WorldManager.#ctor
+  fullName: Hel.ECS.World.WorldManager.WorldManager()
+  nameWithType: WorldManager.WorldManager()
+- uid: Hel.ECS.World.WorldManager.#ctor*
+  name: WorldManager
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager__ctor_
+  commentId: Overload:Hel.ECS.World.WorldManager.#ctor
+  isSpec: "True"
+  fullName: Hel.ECS.World.WorldManager.WorldManager
+  nameWithType: WorldManager.WorldManager
+- uid: Hel.ECS.World.WorldManager.Draw(System.Single)
+  name: Draw(Single)
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_Draw_System_Single_
+  commentId: M:Hel.ECS.World.WorldManager.Draw(System.Single)
+  fullName: Hel.ECS.World.WorldManager.Draw(System.Single)
+  nameWithType: WorldManager.Draw(Single)
+- uid: Hel.ECS.World.WorldManager.Draw*
+  name: Draw
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_Draw_
+  commentId: Overload:Hel.ECS.World.WorldManager.Draw
+  isSpec: "True"
+  fullName: Hel.ECS.World.WorldManager.Draw
+  nameWithType: WorldManager.Draw
+- uid: Hel.ECS.World.WorldManager.GenerateWorld(System.String)
+  name: GenerateWorld(String)
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_GenerateWorld_System_String_
+  commentId: M:Hel.ECS.World.WorldManager.GenerateWorld(System.String)
+  fullName: Hel.ECS.World.WorldManager.GenerateWorld(System.String)
+  nameWithType: WorldManager.GenerateWorld(String)
+- uid: Hel.ECS.World.WorldManager.GenerateWorld*
+  name: GenerateWorld
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_GenerateWorld_
+  commentId: Overload:Hel.ECS.World.WorldManager.GenerateWorld
+  isSpec: "True"
+  fullName: Hel.ECS.World.WorldManager.GenerateWorld
+  nameWithType: WorldManager.GenerateWorld
+- uid: Hel.ECS.World.WorldManager.GetWorld(System.String)
+  name: GetWorld(String)
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_GetWorld_System_String_
+  commentId: M:Hel.ECS.World.WorldManager.GetWorld(System.String)
+  fullName: Hel.ECS.World.WorldManager.GetWorld(System.String)
+  nameWithType: WorldManager.GetWorld(String)
+- uid: Hel.ECS.World.WorldManager.GetWorld*
+  name: GetWorld
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_GetWorld_
+  commentId: Overload:Hel.ECS.World.WorldManager.GetWorld
+  isSpec: "True"
+  fullName: Hel.ECS.World.WorldManager.GetWorld
+  nameWithType: WorldManager.GetWorld
+- uid: Hel.ECS.World.WorldManager.PrimaryWorld
+  name: PrimaryWorld
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_PrimaryWorld
+  commentId: P:Hel.ECS.World.WorldManager.PrimaryWorld
+  fullName: Hel.ECS.World.WorldManager.PrimaryWorld
+  nameWithType: WorldManager.PrimaryWorld
+- uid: Hel.ECS.World.WorldManager.PrimaryWorld*
+  name: PrimaryWorld
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_PrimaryWorld_
+  commentId: Overload:Hel.ECS.World.WorldManager.PrimaryWorld
+  isSpec: "True"
+  fullName: Hel.ECS.World.WorldManager.PrimaryWorld
+  nameWithType: WorldManager.PrimaryWorld
+- uid: Hel.ECS.World.WorldManager.SetPrimaryWorld(System.String)
+  name: SetPrimaryWorld(String)
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_SetPrimaryWorld_System_String_
+  commentId: M:Hel.ECS.World.WorldManager.SetPrimaryWorld(System.String)
+  fullName: Hel.ECS.World.WorldManager.SetPrimaryWorld(System.String)
+  nameWithType: WorldManager.SetPrimaryWorld(String)
+- uid: Hel.ECS.World.WorldManager.SetPrimaryWorld*
+  name: SetPrimaryWorld
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_SetPrimaryWorld_
+  commentId: Overload:Hel.ECS.World.WorldManager.SetPrimaryWorld
+  isSpec: "True"
+  fullName: Hel.ECS.World.WorldManager.SetPrimaryWorld
+  nameWithType: WorldManager.SetPrimaryWorld
+- uid: Hel.ECS.World.WorldManager.Update(System.Single)
+  name: Update(Single)
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_Update_System_Single_
+  commentId: M:Hel.ECS.World.WorldManager.Update(System.Single)
+  fullName: Hel.ECS.World.WorldManager.Update(System.Single)
+  nameWithType: WorldManager.Update(Single)
+- uid: Hel.ECS.World.WorldManager.Update*
+  name: Update
+  href: hel-api/Hel.ECS.World.WorldManager.html#Hel_ECS_World_WorldManager_Update_
+  commentId: Overload:Hel.ECS.World.WorldManager.Update
+  isSpec: "True"
+  fullName: Hel.ECS.World.WorldManager.Update
+  nameWithType: WorldManager.Update
